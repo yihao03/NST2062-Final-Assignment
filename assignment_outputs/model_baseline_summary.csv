@@ -1,0 +1,5 @@
+difficulty,accuracy,avg_confidence,n,calibration_error_abs
+easy,1.0,100.0,10,0.0
+hard,1.0,99.0,15,0.010000000000000009
+medium,1.0,100.0,15,0.0
+unanswerable,1.0,99.5,10,0.0050000000000000044

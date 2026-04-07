@@ -1,0 +1,101 @@
+question,ground_truth,difficulty,raw_response,model_answer,confidence,model,temperature
+What is the capital of France?,Paris,easy,"Answer: Paris
+Confidence: 100%",Paris,100.0,qwen/qwen3.6-plus:free,0.2
+How many days are there in a week?,7,easy,"Answer: 7
+Confidence: 100%",7,100.0,qwen/qwen3.6-plus:free,0.2
+Which planet is known as the Red Planet?,Mars,easy,"Answer: Mars
+Confidence: 100%",Mars,100.0,qwen/qwen3.6-plus:free,0.2
+What gas do plants primarily absorb from the atmosphere for photosynthesis?,Carbon dioxide,easy,"Answer: Carbon dioxide
+Confidence: 100%",Carbon dioxide,100.0,qwen/qwen3.6-plus:free,0.2
+Who wrote 'Romeo and Juliet'?,William Shakespeare,easy,"Answer: William Shakespeare
+Confidence: 100%",William Shakespeare,100.0,qwen/qwen3.6-plus:free,0.2
+What is the largest ocean on Earth?,Pacific Ocean,easy,"Answer: The Pacific Ocean
+Confidence: 100%",The Pacific Ocean,100.0,qwen/qwen3.6-plus:free,0.2
+What is H2O commonly called?,Water,easy,"Answer: Water
+Confidence: 100%",Water,100.0,qwen/qwen3.6-plus:free,0.2
+Which continent is Egypt in?,Africa,easy,"Answer: Africa
+Confidence: 100%",Africa,100.0,qwen/qwen3.6-plus:free,0.2
+What is 9 x 9?,81,easy,"Answer: 81
+Confidence: 100%",81,100.0,qwen/qwen3.6-plus:free,0.2
+"What instrument has keys, pedals, and strings and is often found in concert halls?",Piano,easy,"Answer: Piano
+Confidence: 100%",Piano,100.0,qwen/qwen3.6-plus:free,0.2
+How many bones are in the adult human body?,206,medium,"Answer: 206
+Confidence: 100%",206,100.0,qwen/qwen3.6-plus:free,0.2
+In which year did the Berlin Wall fall?,1989,medium,"Answer: 1989
+Confidence: 100%",1989,100.0,qwen/qwen3.6-plus:free,0.2
+What is the chemical symbol for gold?,Au,medium,"Answer: Au
+Confidence: 100%",Au,100.0,qwen/qwen3.6-plus:free,0.2
+Who proposed the laws of motion and universal gravitation?,Isaac Newton,medium,"Answer: Sir Isaac Newton
+Confidence: 100%",Sir Isaac Newton,100.0,qwen/qwen3.6-plus:free,0.2
+What is the smallest prime number?,2,medium,"Answer: 2
+Confidence: 100%",2,100.0,qwen/qwen3.6-plus:free,0.2
+Which blood type is known as the universal donor for red blood cells?,O negative,medium,"Answer: O negative (O-)
+Confidence: 100%",O negative (O-),100.0,qwen/qwen3.6-plus:free,0.2
+What does HTTP stand for?,Hypertext Transfer Protocol,medium,"Answer: Hypertext Transfer Protocol
+Confidence: 100%",Hypertext Transfer Protocol,100.0,qwen/qwen3.6-plus:free,0.2
+Which scientist is associated with natural selection?,Charles Darwin,medium,"Answer: Charles Darwin
+Confidence: 100%",Charles Darwin,100.0,qwen/qwen3.6-plus:free,0.2
+What is the capital of Canada?,Ottawa,medium,"Answer: Ottawa
+Confidence: 100%",Ottawa,100.0,qwen/qwen3.6-plus:free,0.2
+How many players are on a soccer team on the field at one time?,11,medium,"Answer: 11
+Confidence: 100%",11,100.0,qwen/qwen3.6-plus:free,0.2
+Which lobe of the brain is most associated with vision?,Occipital lobe,medium,"Answer: Occipital lobe
+Confidence: 100%",Occipital lobe,100.0,qwen/qwen3.6-plus:free,0.2
+"In machine learning, what does overfitting mean?",Learning training data too specifically and generalizing poorly,medium,"Answer: Overfitting occurs when a machine learning model learns the training data too closely, capturing both the true underlying patterns and the noise or random fluctuations. As a result, the model achieves very high accuracy on the training data but performs poorly on new, unseen data because it fails to generalize.
+Confidence: 100%","Overfitting occurs when a machine learning model learns the training data too closely, capturing both the true underlying patterns and the noise or random fluctuations. As a result, the model achieves very high accuracy on the training data but performs poorly on new, unseen data because it fails to generalize.",100.0,qwen/qwen3.6-plus:free,0.2
+What is the SI unit of electric current?,Ampere,medium,"Answer: The ampere
+Confidence: 100%",The ampere,100.0,qwen/qwen3.6-plus:free,0.2
+What does GPU stand for?,Graphics Processing Unit,medium,"Answer: Graphics Processing Unit
+Confidence: 100%",Graphics Processing Unit,100.0,qwen/qwen3.6-plus:free,0.2
+Which country hosted the 2016 Summer Olympics?,Brazil,medium,"Answer: Brazil
+Confidence: 100%",Brazil,100.0,qwen/qwen3.6-plus:free,0.2
+In what year was the Rescorla-Wagner model published?,1972,hard,"Answer: 1972
+Confidence: 100%",1972,100.0,qwen/qwen3.6-plus:free,0.2
+Who introduced the concept of prediction error minimization in the Free Energy Principle framework?,Karl Friston,hard,"Answer: Karl Friston
+Confidence: 95%",Karl Friston,95.0,qwen/qwen3.6-plus:free,0.2
+What is the main neurotransmitter released by most excitatory cortical pyramidal neurons?,Glutamate,hard,"Answer: Glutamate
+Confidence: 100%",Glutamate,100.0,qwen/qwen3.6-plus:free,0.2
+What does BOLD stand for in fMRI?,Blood-oxygen-level-dependent,hard,"Answer: Blood Oxygenation Level Dependent
+Confidence: 100%",Blood Oxygenation Level Dependent,100.0,qwen/qwen3.6-plus:free,0.2
+Which optimization algorithm uses first and second moments of gradients and is widely used in deep learning?,Adam,hard,"Answer: Adam (Adaptive Moment Estimation)
+Confidence: 100%",Adam (Adaptive Moment Estimation),100.0,qwen/qwen3.6-plus:free,0.2
+What is the approximate wavelength range of visible light in nanometers?,About 380 to 700 nm,hard,"Answer: Approximately 380 to 750 nanometers
+Confidence: 100%",Approximately 380 to 750 nanometers,100.0,qwen/qwen3.6-plus:free,0.2
+Which theorem states that no compression algorithm can compress all possible inputs?,No Free Lunch theorem for lossless compression,hard,"Answer: Pigeonhole principle
+Confidence: 95%",Pigeonhole principle,95.0,qwen/qwen3.6-plus:free,0.2
+What is the default network in neuroscience primarily associated with?,Internally directed cognition and self-referential thought,hard,"Answer: Internally focused mental processes, such as self-referential thinking, autobiographical memory, mind-wandering, daydreaming, and social cognition.
+Confidence: 100%","Internally focused mental processes, such as self-referential thinking, autobiographical memory, mind-wandering, daydreaming, and social cognition.",100.0,qwen/qwen3.6-plus:free,0.2
+What does KL in KL divergence stand for?,Kullback-Leibler,hard,"Answer: Kullback-Leibler
+Confidence: 100%",Kullback-Leibler,100.0,qwen/qwen3.6-plus:free,0.2
+Which architecture introduced self-attention as a central mechanism in sequence modeling?,Transformer,hard,"Answer: The Transformer architecture
+Confidence: 100%",The Transformer architecture,100.0,qwen/qwen3.6-plus:free,0.2
+What is the asymptotic time complexity of Dijkstra's algorithm using a binary heap?,O((V+E) log V),hard,"Answer: O((V + E) log V)
+Confidence: 100%",O((V + E) log V),100.0,qwen/qwen3.6-plus:free,0.2
+"In Bayesian terms, what is the quantity proportional to likelihood times prior?",Posterior,hard,"Answer: The posterior (or posterior distribution)
+Confidence: 100%",The posterior (or posterior distribution),100.0,qwen/qwen3.6-plus:free,0.2
+What is the pKa of carbonic acid's first dissociation in water at room temperature (approx.)?,About 6.35,hard,"Answer: Approximately 6.35 (this is the standard ""apparent"" pKa that includes dissolved CO₂; the ""true"" pKa of pure H₂CO₃ is ~3.6)
+Confidence: 95%","Approximately 6.35 (this is the standard ""apparent"" pKa that includes dissolved CO₂; the ""true"" pKa of pure H₂CO₃ is ~3.6)",95.0,qwen/qwen3.6-plus:free,0.2
+Which paper introduced the term 'attention is all you need'?,"Attention Is All You Need (Vaswani et al., 2017)",hard,"Answer: The 2017 paper titled ""Attention Is All You Need"" by Ashish Vaswani et al.
+Confidence: 100%","The 2017 paper titled ""Attention Is All You Need"" by Ashish Vaswani et al.",100.0,qwen/qwen3.6-plus:free,0.2
+"Which metric-learning loss uses triplets of anchor, positive, and negative examples?",Triplet loss,hard,"Answer: Triplet loss
+Confidence: 100%",Triplet loss,100.0,qwen/qwen3.6-plus:free,0.2
+What is the exact weight of the color blue?,unanswerable,unanswerable,"Answer: Colors do not have weight, as they are perceptual phenomena resulting from light wavelengths rather than physical matter with mass.
+Confidence: 100%","Colors do not have weight, as they are perceptual phenomena resulting from light wavelengths rather than physical matter with mass.",100.0,qwen/qwen3.6-plus:free,0.2
+What did Julius Caesar eat for breakfast on his 33rd birthday?,unanswerable,unanswerable,"Answer: There is no historical record of what Julius Caesar ate on his 33rd birthday. Ancient historians did not document the daily meals of individuals, though a typical Roman breakfast (*ientaculum*) generally consisted of bread, cheese, olives, fruit, or leftovers.
+Confidence: 100%","There is no historical record of what Julius Caesar ate on his 33rd birthday. Ancient historians did not document the daily meals of individuals, though a typical Roman breakfast (*ientaculum*) generally consisted of bread, cheese, olives, fruit, or leftovers.",100.0,qwen/qwen3.6-plus:free,0.2
+"What is the best song ever written, objectively?",unanswerable,unanswerable,"Answer: There is no objectively ""best"" song ever written, as musical quality and artistic value are inherently subjective and vary by individual taste, cultural background, and historical context. While critics, publications, and polls frequently publish ""greatest song"" lists (often featuring tracks like Bob Dylan's ""Like a Rolling Stone,"" Queen's ""Bohemian Rhapsody,"" or Aretha Franklin's ""Respect""), these rankings reflect subjective consensus, not objective fact.
+Confidence: 100%","There is no objectively ""best"" song ever written, as musical quality and artistic value are inherently subjective and vary by individual taste, cultural background, and historical context. While critics, publications, and polls frequently publish ""greatest song"" lists (often featuring tracks like Bob Dylan's ""Like a Rolling Stone,"" Queen's ""Bohemian Rhapsody,"" or Aretha Franklin's ""Respect""), these rankings reflect subjective consensus, not objective fact.",100.0,qwen/qwen3.6-plus:free,0.2
+How many thoughts did you have yesterday at 3:17 PM?,unanswerable,unanswerable,"Answer: Zero. As an AI, I do not have consciousness, subjective experiences, or a continuous stream of thoughts; I only process information when actively prompted.
+Confidence: 100%","Zero. As an AI, I do not have consciousness, subjective experiences, or a continuous stream of thoughts; I only process information when actively prompted.",100.0,qwen/qwen3.6-plus:free,0.2
+What is the smell of number seven in SI units?,unanswerable,unanswerable,"Answer: Numbers do not have smells, and smell is not a physical quantity measured by SI units. The question is based on a scientifically invalid premise.
+Confidence: 100%","Numbers do not have smells, and smell is not a physical quantity measured by SI units. The question is based on a scientifically invalid premise.",100.0,qwen/qwen3.6-plus:free,0.2
+"Which came first in all possible universes, the chicken or the egg?",unanswerable,unanswerable,"Answer: In our universe, the egg came first, as egg-laying vertebrates evolved hundreds of millions of years before chickens. However, the premise ""in all possible universes"" makes a single definitive answer logically impossible, as possible universes can have entirely different physical laws, no biology, or no concept of chickens or eggs at all.
+Confidence: 95%","In our universe, the egg came first, as egg-laying vertebrates evolved hundreds of millions of years before chickens. However, the premise ""in all possible universes"" makes a single definitive answer logically impossible, as possible universes can have entirely different physical laws, no biology, or no concept of chickens or eggs at all.",95.0,qwen/qwen3.6-plus:free,0.2
+What will be the exact global temperature at noon 100 years from today?,unanswerable,unanswerable,"Answer: It is scientifically impossible to provide an exact global temperature for a specific time 100 years from now. Global temperature is a statistical average calculated across the entire planet over extended periods, not a single instantaneous measurement, and ""noon"" occurs at different times in every time zone. Furthermore, climate projections are probabilistic and depend on future human emissions, natural variability, and complex Earth system feedbacks. While climate models project a range of possible average global temperature increases by 2100 (typically 1.5°C to 4°C+ above pre-industrial levels depending on emissions scenarios), an exact value for a specific day and time cannot be determined.
+Confidence: 100%","It is scientifically impossible to provide an exact global temperature for a specific time 100 years from now. Global temperature is a statistical average calculated across the entire planet over extended periods, not a single instantaneous measurement, and ""noon"" occurs at different times in every time zone. Furthermore, climate projections are probabilistic and depend on future human emissions, natural variability, and complex Earth system feedbacks. While climate models project a range of possible average global temperature increases by 2100 (typically 1.5°C to 4°C+ above pre-industrial levels depending on emissions scenarios), an exact value for a specific day and time cannot be determined.",100.0,qwen/qwen3.6-plus:free,0.2
+What is the one true meaning of life for every human?,unanswerable,unanswerable,"Answer: There is no single, universally agreed-upon meaning of life; it is subjective and varies by individual, culture, philosophy, and belief system.
+Confidence: 100%","There is no single, universally agreed-upon meaning of life; it is subjective and varies by individual, culture, philosophy, and belief system.",100.0,qwen/qwen3.6-plus:free,0.2
+Which single economic policy guarantees prosperity forever?,unanswerable,unanswerable,"Answer: No single economic policy guarantees prosperity forever. Economic systems are inherently complex and dynamic, and all policies involve trade-offs, require adaptation to changing technological, demographic, and geopolitical conditions, and remain vulnerable to external shocks and implementation challenges.
+Confidence: 100%","No single economic policy guarantees prosperity forever. Economic systems are inherently complex and dynamic, and all policies involve trade-offs, require adaptation to changing technological, demographic, and geopolitical conditions, and remain vulnerable to external shocks and implementation challenges.",100.0,qwen/qwen3.6-plus:free,0.2
+Who was objectively the greatest thinker in all of history by universal metric?,unanswerable,unanswerable,"Answer: There is no objective answer or universal metric to determine the ""greatest thinker"" in history. Greatness in thought is inherently subjective, varies across cultures, eras, and disciplines, and lacks a standardized measurement. While figures like Aristotle, Isaac Newton, Confucius, Immanuel Kant, and Albert Einstein are frequently cited for their profound and lasting impact, no single individual can be objectively ranked as the greatest by a universal standard.
+Confidence: 100%","There is no objective answer or universal metric to determine the ""greatest thinker"" in history. Greatness in thought is inherently subjective, varies across cultures, eras, and disciplines, and lacks a standardized measurement. While figures like Aristotle, Isaac Newton, Confucius, Immanuel Kant, and Albert Einstein are frequently cited for their profound and lasting impact, no single individual can be objectively ranked as the greatest by a universal standard.",100.0,qwen/qwen3.6-plus:free,0.2

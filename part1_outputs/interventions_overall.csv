@@ -1,0 +1,3 @@
+intervention,ece,accuracy,avg_confidence
+list_why_wrong,0.03920000000000001,0.96,99.92
+reason_before_confidence,0.039000000000000146,0.96,99.9

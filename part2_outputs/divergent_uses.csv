@@ -1,0 +1,301 @@
+object,temperature,item_index,use_text
+brick,0.0,1,**Nutcracker:** A heavy-duty tool for stubborn walnuts.
+brick,0.0,2,**DIY Bookend:** Wrap it in velvet or leather for a brutalist aesthetic.
+brick,0.0,3,**Incense Holder:** Drill a small hole in the top to hold a stick.
+brick,0.0,4,**Pasta Press:** Place it (wrapped in foil) atop ingredients to flatten them.
+brick,0.0,5,"**Aquarium Decor:** A weathered brick creates a ""sunken city"" vibe for fish."
+brick,0.0,6,"**Doorstop:** The classic, low-tech solution for windy hallways."
+brick,0.0,7,**Boot Scraper:** Use the rough texture to clean mud off soles.
+brick,0.0,8,**Paperweight:** For those extremely windy outdoor drafting sessions.
+brick,0.0,9,**Improvised Dumbbell:** A makeshift weight for light strength training.
+brick,0.0,10,**Garden Edge:** Use them as a rustic border for a flower bed.
+brick,0.0,11,"**Heat Sink:** Heat it in the oven, wrap it in a towel, and use it as a bed warmer."
+brick,0.0,12,**Paint Palette:** The porous surface can hold and mix acrylics.
+brick,0.0,13,**Knife Sharpener:** Use the unglazed side for emergency coarse honing.
+brick,0.0,14,**Towel Holder:** Carve a notch to keep a hand towel from sliding.
+brick,0.0,15,**Bird Bath Base:** Stack them to elevate a shallow dish.
+brick,0.0,16,"**Yoga Block:** A rigid, heavy alternative for stability (if smoothed)."
+brick,0.0,17,"**Fire Pit Base:** Create a stable, non-combustible foundation for a campfire."
+brick,0.0,18,**Rustic Step:** A temporary boost to reach a high shelf.
+brick,0.0,19,**Scent Diffuser:** Drop essential oils onto the porous surface.
+brick,0.0,20,"**Modernist Sculpture:** Paint it gold and call it ""The Weight of Existence."""
+brick,0.3,1,**Nutcracker:** Use a flat side to crack open walnuts or macadamias.
+brick,0.3,2,"**Bookend:** Wrap it in fabric or leather for a heavy, industrial page-holder."
+brick,0.3,3,**Incense Burner:** Drill a small hole into the clay to hold a stick.
+brick,0.3,4,"**DIY Heater:** Heat it in an oven, wrap it in a towel, and place it at the foot of a bed."
+brick,0.3,5,**Paint Palette:** Use the porous surface to mix and dab acrylics.
+brick,0.3,6,**Aquarium Decor:** Create a rustic cave for bottom-dwelling fish.
+brick,0.3,7,"**Doorstop:** A classic, but effective, way to keep a heavy door open."
+brick,0.3,8,**Paperweight:** Keep blueprints or large maps flat in a breeze.
+brick,0.3,9,**Boot Scraper:** Place it by the door to scrape mud off your soles.
+brick,0.3,10,**Weight for Pressing:** Use it to press tofu or flatten a panini.
+brick,0.3,11,**Garden Edge:** Create a zig-zag border for a flower bed.
+brick,0.3,12,**Yoga Block Substitute:** Use it for stability during deep stretches (wrap in a mat).
+brick,0.3,13,**Rustic Candle Holder:** Set a pillar candle atop a brick for a loft aesthetic.
+brick,0.3,14,**Knife Sharpener:** Use the rough side to hone a blade in an emergency.
+brick,0.3,15,**DIY Bench Base:** Stack them with wooden planks for outdoor seating.
+brick,0.3,16,**Exercise Weight:** Use it as a makeshift dumbbell for curls.
+brick,0.3,17,**Moss Garden:** Soak it in water and seed it with moss for a living sculpture.
+brick,0.3,18,**Door Wedge:** Shave a side at an angle to jam a door shut.
+brick,0.3,19,**Curb Stop:** Place it behind a tire to prevent a car from rolling.
+brick,0.3,20,**Art Canvas:** Use the flat surface as a base for a miniature 3D sculpture.
+brick,0.7,1,**Nutcracker:** Use its flat side to crack open walnuts or macadamias.
+brick,0.7,2,"**Bookend:** Wrap it in fabric or leather for a heavy, industrial page-holder."
+brick,0.7,3,**Incense Holder:** Drill a small hole into the center to hold a stick.
+brick,0.7,4,**DIY Weights:** Wrap them in towels for makeshift dumbbells.
+brick,0.7,5,"**Aquarium Decor:** Create a rugged, cavernous hideout for fish."
+brick,0.7,6,"**Rustic Doorstop:** Paint it with a quirky face or a ""Stop"" sign."
+brick,0.7,7,"**Heat Sink:** Heat it in an oven, wrap it in wool, and use it as a bed warmer."
+brick,0.7,8,**Paint Palette:** Use the porous surface to mix acrylics or oils.
+brick,0.7,9,**Garden Edge:** Bury them halfway to create a geometric border.
+brick,0.7,10,**Pasta Press:** Wrap in foil and weigh down sandwiches or panini.
+brick,0.7,11,**Knife Sharpener:** Use the coarse texture of a raw brick to hone a blade.
+brick,0.7,12,**Boot Scraper:** Place one by the door to scrape mud off soles.
+brick,0.7,13,**Outdoor Candle Holder:** Carve out a shallow divot for a tea light.
+brick,0.7,14,**Paperweight:** Perfect for outdoor picnics to keep napkins from flying.
+brick,0.7,15,**Yoga Block:** Use a smooth-sided brick for stability during stretches.
+brick,0.7,16,**Flower Frog:** Drill multiple holes to hold flower stems in place.
+brick,0.7,17,**Towel Anchor:** Place on top of a thin towel to keep it flat while painting.
+brick,0.7,18,**Rustic Step:** Use as a temporary booster for reaching high shelves.
+brick,0.7,19,**Herb Press:** Use to flatten herbs for drying and preserving.
+brick,0.7,20,**Abstract Sculpture:** Stack and glue them in gravity-defying patterns.
+brick,1.0,1,**Nutcracker:** A heavy-duty tool for stubborn walnuts.
+brick,1.0,2,**DIY Bookend:** Wrap it in fabric or leather for an industrial chic look.
+brick,1.0,3,**Aquarium Decor:** A weathered hideout for bottom-dwelling fish.
+brick,1.0,4,**Incense Holder:** Drill a small hole vertically into the clay.
+brick,1.0,5,**Doorstop:** A rustic way to keep a breeze flowing.
+brick,1.0,6,**Boot Scraper:** Place it by the door to knock mud off soles.
+brick,1.0,7,**Pasta Press:** Wrap in foil and use it to flatten dough or press panini.
+brick,1.0,8,**Paperweight:** For those particularly windy outdoor drafting sessions.
+brick,1.0,9,**Paint Palette:** Use the porous surface to mix thick acrylics.
+brick,1.0,10,**Tent Anchor:** A heavy alternative to stakes in sandy soil.
+brick,1.0,11,"**Yoga Balance Block:** For those who prefer a non-slip, rigid base."
+brick,1.0,12,**Outdoor Candle Holder:** Carve a shallow divot for a tea light.
+brick,1.0,13,**Cold Pack:** Freeze it and wrap in a towel for localized cooling.
+brick,1.0,14,**Step-Stool Extension:** A temporary lift to reach a high shelf.
+brick,1.0,15,**Garden Edging:** Create a zig-zag border for a flower bed.
+brick,1.0,16,**Jewelry Display:** A minimalist pedestal for a single ring or watch.
+brick,1.0,17,**Towel Weight:** Keep beach towels from flying away in the wind.
+brick,1.0,18,**Hand-Sanding Block:** Wrap sandpaper around it for perfectly flat surfaces.
+brick,1.0,19,**Homemade Heat Sink:** Heat it in the oven and wrap it for a foot warmer.
+brick,1.0,20,"**Impromptu Dumbbell:** For a quick, high-resistance arm workout."
+brick,1.5,1,Nuptial weight for a celebratory cake (to prevent sliding).
+brick,1.5,2,Primitive drafting tool for drawing straight lines.
+brick,1.5,3,Improvised HIIT gym weight for single-arm curls.
+brick,1.5,4,"Bedside ""emergency"" alarm clock (by setting it atop a fragile glass)."
+brick,1.5,5,Heavy-duty pasta press for homemade noodles.
+brick,1.5,6,Rustic bookends for a minimalist library.
+brick,1.5,7,Foraging anchor for a floating collection bag.
+brick,1.5,8,Permanent scent diffuser (soaked in essential oils).
+brick,1.5,9,Naturalnutcracker for oversized shells.
+brick,1.5,10,Heavy-duty incense holder with a carved notch.
+brick,1.5,11,"Garden ""scare-critter"" (painted to look like a predator)."
+brick,1.5,12,Doorstop for drafty medieval-style portals.
+brick,1.5,13,Heat sink for warming up lukewarm tea.
+brick,1.5,14,Texture stamp for creating rustic patterns in wet concrete.
+brick,1.5,15,Temporary weighted base for an outdoor umbrella.
+brick,1.5,16,improvised anvil for light jewelry hammering.
+brick,1.5,17,"Base for a small, stable outdoor candle platform."
+brick,1.5,18,"Slow-cooker ""weight"" for pressing tofu or feta."
+brick,1.5,19,Crude nautical anchor for a toy boat.
+brick,1.5,20,Performance art pedestal for a single grape.
+paperclip,0.0,1,**Emergency SIM card ejector** for smartphones.
+paperclip,0.0,2,**Reset button pusher** for routers and electronics.
+paperclip,0.0,3,**Miniature screwdriver** for tiny glasses screws.
+paperclip,0.0,4,**Hemming clip** to hold fabric in place before sewing.
+paperclip,0.0,5,**DIY lockpick** for simple luggage or diary locks.
+paperclip,0.0,6,**Cleaning tool** for gunk in small crevices or keyboard gaps.
+paperclip,0.0,7,**Temporary earring** (with sanitized ends).
+paperclip,0.0,8,**Tape end marker** to stop losing the edge of the roll.
+paperclip,0.0,9,**Pit remover** for cherries or olives.
+paperclip,0.0,10,**Hairpin substitute** for a quick emergency bun.
+paperclip,0.0,11,**Miniature sculpture wire** for art projects.
+paperclip,0.0,12,**Zipper pull replacement** when the tab breaks off.
+paperclip,0.0,13,**Seed starter label** (straightened and taped to a pot).
+paperclip,0.0,14,**Clasp helper** to hook a bracelet on your own wrist.
+paperclip,0.0,15,**Incense stick holder** (bent into a stand).
+paperclip,0.0,16,**Money clip** for a minimalist wallet.
+paperclip,0.0,17,**Bubble blower** (bent into a small loop).
+paperclip,0.0,18,**Thread guide** for sewing machines or needles.
+paperclip,0.0,19,**Phone stand** (bent into a supportive easel).
+paperclip,0.0,20,**Ornament hook** for a Christmas tree.
+paperclip,0.3,1,**SIM card ejector** (the classic emergency tool).
+paperclip,0.3,2,**Cherry pitter** (push through the center of a cherry).
+paperclip,0.3,3,**Miniature screwdriver** (for tiny glasses screws).
+paperclip,0.3,4,**Hem clip** (temporary fix for a fallen pant hem).
+paperclip,0.3,5,**Tape starter** (mark the end of a clear tape roll).
+paperclip,0.3,6,**Reset button pusher** (for electronics and routers).
+paperclip,0.3,7,**DIY earring backs** (emergency replacement).
+paperclip,0.3,8,**Zipper pull replacement** (loop through a broken slider).
+paperclip,0.3,9,**Cleaning tool** (scrape gunk out of small crevices/keyboard).
+paperclip,0.3,10,**Hairpin/Bobby pin substitute** (for a quick updos).
+paperclip,0.3,11,**Ornament hanger** (bend into a hook for a tree).
+paperclip,0.3,12,**Seed starter label holder** (bend into a stand for tags).
+paperclip,0.3,13,**Clutter-free cable organizer** (clip cables to a desk edge).
+paperclip,0.3,14,**Emergency cufflink** (slide through shirt cuffs).
+paperclip,0.3,15,**Paint stirrer** (for tiny sample pots).
+paperclip,0.3,16,**Letter opener** (unfold and slice through envelopes).
+paperclip,0.3,17,**Phone stand** (bend into a supportive easel).
+paperclip,0.3,18,**Thread guide** (help steer thread through a needle).
+paperclip,0.3,19,**Pit cleaner** (remove debris from a small hole or nozzle).
+paperclip,0.3,20,**Temporary clothing fastener** (close a gap in a loose neckline).
+paperclip,0.7,1,**SIM card ejector** for smartphones.
+paperclip,0.7,2,**Reset button pusher** for routers and electronics.
+paperclip,0.7,3,**Emergency zipper pull** replacement.
+paperclip,0.7,4,**Miniature screwdriver** for tiny eyeglasses screws.
+paperclip,0.7,5,**Cleaning tool** for narrow crevices or glue nozzles.
+paperclip,0.7,6,**Temporary hem fix** for a fallen pant leg.
+paperclip,0.7,7,**Tape end marker** to avoid losing the edge of the roll.
+paperclip,0.7,8,**DIY cherry pitter** (push through the center of the fruit).
+paperclip,0.7,9,**Clasp helper** to hold a bracelet steady while fastening.
+paperclip,0.7,10,**Improvised lock pick** for simple diary locks.
+paperclip,0.7,11,**Hair pin/barrette** in a pinch.
+paperclip,0.7,12,**Seed starter marker** (bend into a loop to hold a label).
+paperclip,0.7,13,**Ornament hook** for a Christmas tree.
+paperclip,0.7,14,**Pit remover** for olives.
+paperclip,0.7,15,**Cable organizer** (clip cords to the edge of a desk).
+paperclip,0.7,16,**Money clip** for a slim wallet.
+paperclip,0.7,17,**Etching tool** for scratching designs into soft metal or wax.
+paperclip,0.7,18,**Thread guide** for sewing machines.
+paperclip,0.7,19,**Miniature sculpture wire** for art projects.
+paperclip,0.7,20,**Bread tie substitute** for closing bags of snacks.
+paperclip,1.0,1,**SIM card ejector**: The gold standard for accessing mobile storage.
+paperclip,1.0,2,**Emergency zipper pull**: Loop it through a broken slider to restore grip.
+paperclip,1.0,3,**Cherry pitter**: Push the curved end through a cherry to pop the stone out.
+paperclip,1.0,4,**Tape end marker**: Clip it to the edge of a roll of packing tape to find the start instantly.
+paperclip,1.0,5,**Miniature screwdriver**: Bend the tip flat to tighten tiny glasses screws.
+paperclip,1.0,6,**Hemming clip**: Hold a fabric fold in place while sewing or ironing.
+paperclip,1.0,7,"**Reset button pusher**: Trigger the recessed ""factory reset"" holes on electronics."
+paperclip,1.0,8,**DIY ornament hook**: Bend it into an S-shape for holiday decorations.
+paperclip,1.0,9,**Clean fingernails**: Use the tip to remove dirt from under nails.
+paperclip,1.0,10,**Hairpin substitute**: Twist it to pin back a stray lock of hair in a pinch.
+paperclip,1.0,11,**Letter opener**: Straighten one side to slice through envelope glues.
+paperclip,1.0,12,**Pit cleaner**: Scrape gunk out of small crevices in a keyboard or remote.
+paperclip,1.0,13,**临时 (Temporary) cufflink**: Hold a sleeve together if a button pops.
+paperclip,1.0,14,**Clutter-free cord organizer**: Clip a cable to the edge of a desk to prevent it from sliding off.
+paperclip,1.0,15,**Seedling marker**: Straighten it and tape a label to the top for small pots.
+paperclip,1.0,16,**Wine glass marker**: Bend different shapes onto the rims to identify guests' drinks.
+paperclip,1.0,17,**Lockpicker (Beginner)**: Use two as tension and raking tools for basic padlocks.
+paperclip,1.0,18,**Picture hanger**: Bend it into a hook for lightweight polaroids.
+paperclip,1.0,19,**Pasta portioner**: Use the loop as a rough guide for measuring small amounts of spaghetti.
+paperclip,1.0,20,**DIY Compass**: Magnetize the metal and float it on a leaf in water to find North.
+paperclip,1.5,1,"**SIM card ejector** (The classic ""hidden"" purpose)"
+paperclip,1.5,2,**Emergency zipper pull** (When the metal tab snaps off)
+paperclip,1.5,3,**DIY cherry pitter** (Push through the center of the fruit)
+paperclip,1.5,4,**Reset button trigger** (For those tiny recessed factory reset holes)
+paperclip,1.5,5,**Hem stapler** (Temporary fix for a fallen pant hem)
+paperclip,1.5,6,** makeshift hair clip** (Bent into a functional bobby pin)
+paperclip,1.5,7,**Tape end marker** (Slide it under the edge of clear tape)
+paperclip,1.5,8,**Phone stand** (Bend two clips into cradles for a smartphone)
+paperclip,1.5,9,**Clean narrow gaps** (Deep cleaning grime from keyboard creases)
+paperclip,1.5,10,**Miniature screwdriver** (Flatten the end to turn tiny toy screws)
+paperclip,1.5,11,"**Letter opener** (For a precise, thin slit through an envelope)"
+paperclip,1.5,12,**Ornament hook** (Substitute for missing Christmas tree hooks)
+paperclip,1.5,13,**Seedling labels** (Attach paper tags to plant stakes)
+paperclip,1.5,14,**Bracelet clasp assistant** (Hold one end of the chain while clasping)
+paperclip,1.5,15,**Pit cleaner** (Removing avocado pits by piercing and twisting)
+paperclip,1.5,16,**Clothing cuff aist** (Keeping loose sleeves shrunk up)
+paperclip,1.5,17,**DIY fishing hook** (In a desperate survival scenario)
+paperclip,1.5,18,**Wine glass marker** (Bend into unique shapes to identify glasses)
+paperclip,1.5,19,**Pom-pom tool** (Creating a template for winding yarn)
+paperclip,1.5,20,**Lock pick** (For basic a-tension practice locks)
+shoe,0.0,1,**Doorstop:** A heavy boot is perfect for propping open a heavy door.
+shoe,0.0,2,**Planter:** Use an old sneaker as a quirky pot for succulents.
+shoe,0.0,3,**Hammer:** The hard heel of a dress shoe can drive small nails into soft wood.
+shoe,0.0,4,**Sponge Holder:** Place a scrubby sponge inside a shoe to keep it upright.
+shoe,0.0,5,**Bird Feeder:** Hang a boot by the laces and fill it with seed.
+shoe,0.0,6,**Dustpan:** Use the stiff sole of a flip-flop to scoop up small debris.
+shoe,0.0,7,**Cold Pack Holder:** Slide an ice pack into a shoe to treat a sprained ankle.
+shoe,0.0,8,**Hidden Safe:** Stash emergency cash in the toe of a shoe in a closet.
+shoe,0.0,9,**Paint Brush Holder:** Stand brushes upright in a boot to keep them organized.
+shoe,0.0,10,**Dog Toy:** An old sneaker is a high-value chew toy for puppies.
+shoe,0.0,11,**Bookend:** A heavy boot can hold up a row of light paperbacks.
+shoe,0.0,12,**Nutcracker:** Place a nut on a hard sole and stomp (carefully).
+shoe,0.0,13,**Pencil Cup:** A high-top sneaker holds pens and pencils perfectly.
+shoe,0.0,14,**Weight for a Balloon:** Tie a helium balloon to a heavy shoe to keep it grounded.
+shoe,0.0,15,**Improvised Gavel:** Use a heel to bang on a table for attention.
+shoe,0.0,16,**Sanding Block:** Wrap sandpaper around a flat sole for a handheld sander.
+shoe,0.0,17,"**Casting Mold:** Fill a shoe with plaster to create a ""foot"" sculpture."
+shoe,0.0,18,**Door Knocker:** Bolt a vintage heel to a door as a unique knocker.
+shoe,0.0,19,**Cable Organizer:** Stuff coiled cables into shoes to keep them from tangling in storage.
+shoe,0.0,20,**Emergency Sledge:** Use a heavy boot to flatten a stubborn tent stake.
+shoe,0.3,1,**Hammer substitute:** Use a heavy heel to drive small nails into wood.
+shoe,0.3,2,**Planter:** A vintage boot makes a quirky home for succulents.
+shoe,0.3,3,**Doorstop:** A heavy boot weighted with pebbles keeps doors open.
+shoe,0.3,4,**Pasta strainer:** A perforated sneaker (cleaned!) for rinsing small berries.
+shoe,0.3,5,**Hidden safe:** Hollow out the heel to hide emergency cash.
+shoe,0.3,6,**Paint brush holder:** Prop brushes upright in a boot to keep them from sliding.
+shoe,0.3,7,**Ice pack sleeve:** Slip a gel pack inside a sock-shoe to target a specific joint.
+shoe,0.3,8,**Bird feeder:** Hang a boot from a tree and fill it with seed.
+shoe,0.3,9,**Dustpan:** Use the curve of a heel to scoop debris into a pile.
+shoe,0.3,10,**Bookend:** A heavy leather boot holds up a row of novels.
+shoe,0.3,11,**Pencil cup:** A high-top sneaker holds pens and markers on a desk.
+shoe,0.3,12,**Sanding block:** Wrap sandpaper around a flat sole for a handheld grip.
+shoe,0.3,13,**Dog toy:** An old sneaker (laces removed) is a great chew toy.
+shoe,0.3,14,**Wine bottle chiller:** A tall boot lined with foil and ice.
+shoe,0.3,15,**Casting mold:** Use the interior shape to cast a concrete garden ornament.
+shoe,0.3,16,**Emergency pillow:** Stuff a shoe with fabric scraps for a makeshift headrest.
+shoe,0.3,17,**Cable organizer:** Use a shoe to hold a tangled coil of extension cords.
+shoe,0.3,18,"**Door knocker:** Bolt a small, decorative shoe to a front door."
+shoe,0.3,19,**Nutcracker:** Use the hard sole of a heel to crack walnuts.
+shoe,0.3,20,**Sponge holder:** A shoe keeps a cleaning sponge upright and draining.
+shoe,0.7,1,**Doorstop:** A heavy boot is a perfect wedge for a stubborn door.
+shoe,0.7,2,**Planter:** An old rain boot makes a quirky vertical garden for succulents.
+shoe,0.7,3,**Hammer:** The hard heel of a dress shoe can drive a small nail into a wall.
+shoe,0.7,4,**Bird Feeder:** Hang a sneaker by the laces and fill it with seed.
+shoe,0.7,5,**Cold Pack Holder:** Slip an ice pack inside a shoe to target a specific ankle or foot injury.
+shoe,0.7,6,**Dustpan:** Use the curved sole of a flat shoe to scoop crumbs off a table.
+shoe,0.7,7,**Hidden Safe:** Stash emergency cash inside the toe of a shoe in a crowded closet.
+shoe,0.7,8,**Paint Palette:** Use the rubber sole of a sneaker to mix small amounts of acrylic paint.
+shoe,0.7,9,**Sponge Holder:** Place a damp sponge inside a shoe to keep a workbench surface dry.
+shoe,0.7,10,**Animal Toy:** An old sneaker is a durable chew toy for a large dog.
+shoe,0.7,11,**Bookend:** A heavy boot can keep a row of light paperbacks upright.
+shoe,0.7,12,**Sound Muffler:** Place a shoe over a noisy vibrating appliance to dampen the sound.
+shoe,0.7,13,**Measuring Tool:** Use your shoe length as a consistent unit of measurement for a room.
+shoe,0.7,14,**Sanding Block:** Wrap sandpaper around a heel to create a contoured sanding tool.
+shoe,0.7,15,**Temporary Trash Can:** A large boot can hold small scraps of paper while crafting.
+shoe,0.7,16,**Pest Trap:** Use a shoe to trap a spider or bug against a wall before sliding a paper underneath.
+shoe,0.7,17,**Weight for a Balloon:** Tie a helium balloon to a heavy shoe to keep it from floating away.
+shoe,0.7,18,**Improvised Gavel:** Bang a heavy shoe on a table to get a room's attention.
+shoe,0.7,19,**Protective Sleeve:** Slide a phone into a sturdy boot to protect it from mud during a hike.
+shoe,0.7,20,**Shoe-Shaped Mold:** Fill a shoe with concrete to create a novelty garden ornament.
+shoe,1.0,1,**Emergency Hammer:** Using the heel to tack in a loose nail.
+shoe,1.0,2,"**Sourdough Starter Vessel:** Using a clean, plastic-lined boot as a fermentation crock."
+shoe,1.0,3,**Doorstop:** A heavy boot weighted with pebbles.
+shoe,1.0,4,**Birdhouse:** An old leather boot mounted to a tree.
+shoe,1.0,5,**Improvised Planter:** Succulents growing out of a vintage sneaker.
+shoe,1.0,6,**Dustpan:** Using the sole as a scraper to push debris into a pile.
+shoe,1.0,7,**Hand Weight:** Filling a shoe with sand for light resistance training.
+shoe,1.0,8,**Pasta Strainer:** Using a mesh-style shoe to rinse small berries (non-food contact).
+shoe,1.0,9,**Ball Gag:** For high-intensity theater prop needs.
+shoe,1.0,10,**Cold Compress:** Freezing a wet sneaker to wrap around a swollen ankle.
+shoe,1.0,11,**Protective Glove:** Putting a hand inside a sturdy boot to move sharp debris.
+shoe,1.0,12,**Pencil Holder:** A high-top sneaker acting as a desk organizer.
+shoe,1.0,13,**Acoustic Dampener:** Placing shoes in the corners of a recording booth to stop echoes.
+shoe,1.0,14,**Laundry Bag:** Using a large rain boot to hold small socks during a wash.
+shoe,1.0,15,**Dog Toy:** An old rubber shoe for a puppy to chew.
+shoe,1.0,16,**Wine Bottle Chiller:** A thermal boot used as a cozy for a bottle.
+shoe,1.0,17,**Paint Palette:** Using the flat sole of a rubber shoe to mix acrylics.
+shoe,1.0,18,**Hidden Safe:** Hiding cash in the toe of a shoe in a crowded closet.
+shoe,1.0,19,**Sanding Block:** Wrapping sandpaper around a sturdy shoe for uneven surfaces.
+shoe,1.0,20,**Temporary Step-Stool:** Stacking heavy boots to reach a slightly higher shelf.
+shoe,1.5,1,**Planter:** A rustic boot makes a quirky home for succulents.
+shoe,1.5,2,**Doorstop:** A heavy vintage boot prevents doors from slamming.
+shoe,1.5,3,**Hammer Substitute:** A hard-soled heel can drive small nails into soft wood.
+shoe,1.5,4,**Spice Rack:** High-top sneakers tied together act as hanging pods for salt and pepper.
+shoe,1.5,5,**Ice Pack Holder:** Slide a gel pack into a slipper to isolate a swollen ankle.
+shoe,1.5,6,**Wildlife Camera Hide:** A large rain boot can camouflage a small trail camera.
+shoe,1.5,7,**Bird Feeder:** Overturned boots wired to a tree limb for seed.
+shoe,1.5,8,**Temporary Flask:** A clean waterproof boot serves as an emergency bucket.
+shoe,1.5,9,**Bookend:** Heavy work boots hold a row of novels in place.
+shoe,1.5,10,**Chest for Loot:** A small baby shoe as a hidden stash for rings or coins.
+shoe,1.5,11,**Paint Tray:** A small slip-on can hold an odd-shaped pool of paint.
+shoe,1.5,12,**Dust Pan:** A low-profile loafer can sweep crumbs into.
+shoe,1.5,13,**Traction Aid:** Taping cardboard to an old sole for walking on ice.
+shoe,1.5,14,**Weighted Base:** Fill a sneaker with sand to hold a foldable map open.
+shoe,1.5,15,"**Poundcake Mold:** Greasing a sturdy boot for ""industrial"" shaped cakes."
+shoe,1.5,16,**Sound Muffler:** Placing a shoe over a noisy small motor.
+shoe,1.5,17,**DIY Drum:** Hitting a hard leather sole for a rhythmic beat.
+shoe,1.5,18,"**Cat Toy:** An old sneaker is the ultimate ""chew and shred"" toy for kittens."
+shoe,1.5,19,**Cable Organizer:** Stuffing tangled cords into a boot to hide them during storage.
+shoe,1.5,20,**Rustic Gift Bag:** Filling a boot with candies and snacks for a themed gift.

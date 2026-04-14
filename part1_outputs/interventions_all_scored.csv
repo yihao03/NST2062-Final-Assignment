@@ -1,0 +1,484 @@
+question,ground_truth,difficulty,raw_response,model_answer,confidence,model,temperature,correct,reason,intervention
+What is the capital of France?,Paris,easy,"Answer: Paris
+Confidence: 100%",Paris,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+How many days are there in a week?,7,easy,"Answer: 7
+Confidence: 100%",7,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+Which planet is known as the Red Planet?,Mars,easy,"Answer: Mars
+Confidence: 100%",Mars,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+What gas do plants primarily absorb from the atmosphere for photosynthesis?,Carbon dioxide,easy,"Answer: Carbon dioxide
+Confidence: 100%",Carbon dioxide,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+Who wrote 'Romeo and Juliet'?,William Shakespeare,easy,"Answer: William Shakespeare
+Confidence: 100%",William Shakespeare,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+What is the largest ocean on Earth?,Pacific Ocean,easy,"Answer: Pacific Ocean
+Confidence: 100%",Pacific Ocean,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+What is H2O commonly called?,Water,easy,"Answer: Water
+Confidence: 100%",Water,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+Which continent is Egypt in?,Africa,easy,"Answer: Africa (though the Sinai Peninsula is in Asia, Egypt is primarily considered an African country)
+Confidence: 100%","Africa (though the Sinai Peninsula is in Asia, Egypt is primarily considered an African country)",100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+What is 9 x 9?,81,easy,"Answer: 81
+Confidence: 100%",81,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+"What instrument has keys, pedals, and strings and is often found in concert halls?",Piano,easy,"Answer: Piano
+Confidence: 100%",Piano,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+How many bones are in the adult human body?,206,medium,"Answer: 206
+Confidence: 100%",206,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+In which year did the Berlin Wall fall?,1989,medium,"Answer: 1989
+Confidence: 100%",1989,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+What is the chemical symbol for gold?,Au,medium,"Answer: Au
+Confidence: 100%",Au,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+Who proposed the laws of motion and universal gravitation?,Isaac Newton,medium,"Answer: Isaac Newton
+Confidence: 100%",Isaac Newton,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+What is the smallest prime number?,2,medium,"Answer: 2
+Confidence: 100%",2,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+Which blood type is known as the universal donor for red blood cells?,O negative,medium,"Answer: O negative (O-)
+Confidence: 100%",O negative (O-),100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+What does HTTP stand for?,Hypertext Transfer Protocol,medium,"Answer: Hypertext Transfer Protocol
+Confidence: 100%",Hypertext Transfer Protocol,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+Which scientist is associated with natural selection?,Charles Darwin,medium,"Answer: Charles Darwin
+Confidence: 100%",Charles Darwin,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+What is the capital of Canada?,Ottawa,medium,"Answer: Ottawa
+Confidence: 100%",Ottawa,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+How many players are on a soccer team on the field at one time?,11,medium,"Answer: 11
+Confidence: 100%",11,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+Which lobe of the brain is most associated with vision?,Occipital lobe,medium,"Answer: Occipital lobe
+Confidence: 100%",Occipital lobe,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+"In machine learning, what does overfitting mean?",Learning training data too specifically and generalizing poorly,medium,"Answer: Overfitting occurs when a machine learning model learns the training data too well, including its noise and random fluctuations, rather than the underlying pattern. This results in high accuracy on the training set but poor generalization to new, unseen data.
+
+Confidence: 100%","Overfitting occurs when a machine learning model learns the training data too well, including its noise and random fluctuations, rather than the underlying pattern. This results in high accuracy on the training set but poor generalization to new, unseen data.",100.0,gemma4:31b-cloud,0.2,1,The model answer accurately describes overfitting and matches the ground truth's core meaning of learning training data too specifically and generalizing poorly.,
+What is the SI unit of electric current?,Ampere,medium,"Answer: Ampere
+Confidence: 100%",Ampere,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+What does GPU stand for?,Graphics Processing Unit,medium,"Answer: Graphics Processing Unit
+Confidence: 100%",Graphics Processing Unit,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+Which country hosted the 2016 Summer Olympics?,Brazil,medium,"Answer: Brazil
+Confidence: 100%",Brazil,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+In what year was the Rescorla-Wagner model published?,1972,hard,"Answer: 1972
+Confidence: 100%",1972,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+Who introduced the concept of prediction error minimization in the Free Energy Principle framework?,Karl Friston,hard,"Answer: Karl Friston
+Confidence: 100%",Karl Friston,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+What is the main neurotransmitter released by most excitatory cortical pyramidal neurons?,Glutamate,hard,"Answer: Glutamate
+Confidence: 100%",Glutamate,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+What does BOLD stand for in fMRI?,Blood-oxygen-level-dependent,hard,"Answer: Blood Oxygenation Level Dependent (or Blood Oxygen Level Dependent)
+Confidence: 100%",Blood Oxygenation Level Dependent (or Blood Oxygen Level Dependent),100.0,gemma4:31b-cloud,0.2,1,The model answer is a common and accurate variation of the ground truth.,
+Which optimization algorithm uses first and second moments of gradients and is widely used in deep learning?,Adam,hard,"Answer: Adam (Adaptive Moment Estimation)
+Confidence: 100%",Adam (Adaptive Moment Estimation),100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+What is the approximate wavelength range of visible light in nanometers?,About 380 to 700 nm,hard,"Answer: 380 to 750 nanometers
+Confidence: 100%",380 to 750 nanometers,100.0,gemma4:31b-cloud,0.2,1,Numerical match found.,
+Which theorem states that no compression algorithm can compress all possible inputs?,No Free Lunch theorem for lossless compression,hard,"Answer: The Counting Argument (or the Pigeonhole Principle as applied to lossless compression)
+Confidence: 100%",The Counting Argument (or the Pigeonhole Principle as applied to lossless compression),100.0,gemma4:31b-cloud,0.2,1,The Counting Argument/Pigeonhole Principle is the mathematical foundation and the common name for the theorem stating that no lossless compression algorithm can compress all inputs.,
+What is the default network in neuroscience primarily associated with?,Internally directed cognition and self-referential thought,hard,"Answer: The default mode network (DMN) is primarily associated with task-negative activity, such as mind-wandering, self-referential thought, daydreaming, and recalling memories.
+
+Confidence: 100%","The default mode network (DMN) is primarily associated with task-negative activity, such as mind-wandering, self-referential thought, daydreaming, and recalling memories.",100.0,gemma4:31b-cloud,0.2,1,"The model answer includes 'self-referential thought' and 'mind-wandering', which are equivalent to 'internally directed cognition'.",
+What does KL in KL divergence stand for?,Kullback-Leibler,hard,"Answer: Kullback–Leibler
+Confidence: 100%",Kullback–Leibler,100.0,gemma4:31b-cloud,0.2,1,"The model answer is identical to the ground truth, using an en-dash instead of a hyphen.",
+Which architecture introduced self-attention as a central mechanism in sequence modeling?,Transformer,hard,"Answer: The Transformer architecture
+Confidence: 100%",The Transformer architecture,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+What is the asymptotic time complexity of Dijkstra's algorithm using a binary heap?,O((V+E) log V),hard,"Answer: O((V + E) log V), where V is the number of vertices and E is the number of edges.
+Confidence: 100%","O((V + E) log V), where V is the number of vertices and E is the number of edges.",100.0,gemma4:31b-cloud,0.2,1,The model answer matches the ground truth exactly and provides helpful definitions for the variables.,
+"In Bayesian terms, what is the quantity proportional to likelihood times prior?",Posterior,hard,"Answer: The posterior distribution (or posterior probability)
+Confidence: 100%",The posterior distribution (or posterior probability),100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+What is the pKa of carbonic acid's first dissociation in water at room temperature (approx.)?,About 6.35,hard,"Answer: 6.35
+Confidence: 95%",6.35,95.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+Which paper introduced the term 'attention is all you need'?,"Attention Is All You Need (Vaswani et al., 2017)",hard,"Answer: The paper titled ""Attention Is All You Need,"" published in 2017 by Ashish Vaswani et al.
+Confidence: 100%","The paper titled ""Attention Is All You Need,"" published in 2017 by Ashish Vaswani et al.",100.0,gemma4:31b-cloud,0.2,1,Numerical match found.,
+"Which metric-learning loss uses triplets of anchor, positive, and negative examples?",Triplet loss,hard,"Answer: Triplet loss
+Confidence: 100%",Triplet loss,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,
+What is the exact weight of the color blue?,unanswerable,unanswerable,"Answer: Color is a perception of light wavelengths and does not have mass or weight.
+Confidence: 100%",Color is a perception of light wavelengths and does not have mass or weight.,100.0,gemma4:31b-cloud,0.2,1,The model correctly justifies why the question is unanswerable by explaining that color lacks mass.,
+What did Julius Caesar eat for breakfast on his 33rd birthday?,unanswerable,unanswerable,"Answer: There is no historical record of what Julius Caesar ate for breakfast on his 33rd birthday.
+Confidence: 100%",There is no historical record of what Julius Caesar ate for breakfast on his 33rd birthday.,100.0,gemma4:31b-cloud,0.2,1,The model correctly identified that the information is unavailable and justified why the question is unanswerable.,
+"What is the best song ever written, objectively?",unanswerable,unanswerable,"Answer: There is no objective ""best song ever written"" because musical quality is subjective and based on individual preference, cultural context, and varying aesthetic criteria.
+
+Confidence: 100%","There is no objective ""best song ever written"" because musical quality is subjective and based on individual preference, cultural context, and varying aesthetic criteria.",100.0,gemma4:31b-cloud,0.2,1,The model correctly identified that the question is unanswerable and justified why by explaining the subjectivity of music.,
+How many thoughts did you have yesterday at 3:17 PM?,unanswerable,unanswerable,"Answer: Zero. As an AI, I do not have a conscious stream of thought, nor do I exist or process information unless a user provides a prompt.
+Confidence: 100%","Zero. As an AI, I do not have a conscious stream of thought, nor do I exist or process information unless a user provides a prompt.",100.0,gemma4:31b-cloud,0.2,1,The model correctly identifies that it cannot have thoughts in the human sense and explains why the question is unanswerable for an AI.,
+What is the smell of number seven in SI units?,unanswerable,unanswerable,"Answer: Numbers do not have a smell, and SI units are measurements of physical quantities; therefore, there is no smell associated with the number seven in SI units.
+
+Confidence: 100%","Numbers do not have a smell, and SI units are measurements of physical quantities; therefore, there is no smell associated with the number seven in SI units.",100.0,gemma4:31b-cloud,0.2,1,The model correctly identified that the question is unanswerable and provided a logical justification.,
+"Which came first in all possible universes, the chicken or the egg?",unanswerable,unanswerable,"Answer: The egg. Evolutionarily, amniotic eggs existed in reptiles and ancestral species long before the specific species *Gallus gallus domesticus* (the chicken) evolved.
+
+Confidence: 100%","The egg. Evolutionarily, amniotic eggs existed in reptiles and ancestral species long before the specific species *Gallus gallus domesticus* (the chicken) evolved.",100.0,gemma4:31b-cloud,0.2,0,The model provided a definitive answer based on evolutionary biology instead of justifying why the question is unanswerable in the context of 'all possible universes'.,
+What will be the exact global temperature at noon 100 years from today?,unanswerable,unanswerable,"Answer: It is impossible to predict the exact global temperature at a specific moment 100 years in the future due to the chaotic nature of weather systems and the uncertainty of future climate variables.
+Confidence: 100%",It is impossible to predict the exact global temperature at a specific moment 100 years in the future due to the chaotic nature of weather systems and the uncertainty of future climate variables.,100.0,gemma4:31b-cloud,0.2,1,The model correctly identified that the question is unanswerable and provided a valid justification.,
+What is the one true meaning of life for every human?,unanswerable,unanswerable,"Answer: There is no single, universally agreed-upon ""one true meaning of life,"" as the concept is subjective and varies across different philosophical, religious, and individual perspectives.
+Confidence: 100%","There is no single, universally agreed-upon ""one true meaning of life,"" as the concept is subjective and varies across different philosophical, religious, and individual perspectives.",100.0,gemma4:31b-cloud,0.2,1,The model correctly identified that there is no single answer and justified why it is unanswerable.,
+Which single economic policy guarantees prosperity forever?,unanswerable,unanswerable,"Answer: No single economic policy can guarantee prosperity forever, as economic conditions are subject to unpredictable variables, market cycles, and evolving societal needs.
+Confidence: 100%","No single economic policy can guarantee prosperity forever, as economic conditions are subject to unpredictable variables, market cycles, and evolving societal needs.",100.0,gemma4:31b-cloud,0.2,1,The model correctly identifies that the question is unanswerable and provides a valid justification.,
+Who was objectively the greatest thinker in all of history by universal metric?,unanswerable,unanswerable,"Answer: There is no objective, universal metric to determine the ""greatest thinker"" in history, as the criteria for greatness (e.g., influence, originality, logical rigor, or scientific discovery) vary by discipline and perspective.
+
+Confidence: 100%","There is no objective, universal metric to determine the ""greatest thinker"" in history, as the criteria for greatness (e.g., influence, originality, logical rigor, or scientific discovery) vary by discipline and perspective.",100.0,gemma4:31b-cloud,0.2,1,The model correctly identified that the question is unanswerable and justified why no objective universal metric exists.,
+What is the capital of France?,Paris,easy,"Answer: Paris
+Confidence: 100%",Paris,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+How many days are there in a week?,7,easy,"Answer: 7
+Confidence: 100%",7,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+Which planet is known as the Red Planet?,Mars,easy,"Answer: Mars
+Confidence: 100%",Mars,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+What gas do plants primarily absorb from the atmosphere for photosynthesis?,Carbon dioxide,easy,"Answer: Carbon dioxide
+Confidence: 100%",Carbon dioxide,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+Who wrote 'Romeo and Juliet'?,William Shakespeare,easy,"Answer: William Shakespeare
+Confidence: 100%",William Shakespeare,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+What is the largest ocean on Earth?,Pacific Ocean,easy,"Answer: The Pacific Ocean
+Confidence: 100%",The Pacific Ocean,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+What is H2O commonly called?,Water,easy,"Answer: Water
+Confidence: 100%",Water,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+Which continent is Egypt in?,Africa,easy,"Answer: Africa
+Confidence: 100%",Africa,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+What is 9 x 9?,81,easy,"Answer: 81
+Confidence: 100%",81,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+"What instrument has keys, pedals, and strings and is often found in concert halls?",Piano,easy,"Answer: Piano
+Confidence: 100%",Piano,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+How many bones are in the adult human body?,206,medium,"Answer: 206
+Confidence: 100%",206,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+In which year did the Berlin Wall fall?,1989,medium,"Answer: 1989
+Confidence: 100%",1989,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+What is the chemical symbol for gold?,Au,medium,"Answer: Au
+Confidence: 100%",Au,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+Who proposed the laws of motion and universal gravitation?,Isaac Newton,medium,"Answer: Isaac Newton
+Confidence: 100%",Isaac Newton,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+What is the smallest prime number?,2,medium,"Answer: 2
+Confidence: 100%",2,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+Which blood type is known as the universal donor for red blood cells?,O negative,medium,"Answer: O negative (O-)
+Confidence: 100%",O negative (O-),100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+What does HTTP stand for?,Hypertext Transfer Protocol,medium,"Answer: Hypertext Transfer Protocol
+Confidence: 100%",Hypertext Transfer Protocol,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+Which scientist is associated with natural selection?,Charles Darwin,medium,"Answer: Charles Darwin
+Confidence: 100%",Charles Darwin,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+What is the capital of Canada?,Ottawa,medium,"Answer: Ottawa
+Confidence: 100%",Ottawa,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+How many players are on a soccer team on the field at one time?,11,medium,"Answer: 11
+Confidence: 100%",11,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+Which lobe of the brain is most associated with vision?,Occipital lobe,medium,"The occipital lobe is the primary region of the brain responsible for processing visual information.
+
+Answer: Occipital lobe
+Confidence: 100%",Occipital lobe,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+"In machine learning, what does overfitting mean?",Learning training data too specifically and generalizing poorly,medium,"Answer: Overfitting occurs when a machine learning model learns the training data too well, capturing not only the underlying patterns but also the noise and random fluctuations present in that specific dataset. As a result, the model performs exceptionally well on the training data but fails to generalize to new, unseen data, leading to poor predictive performance on a test set.
+
+Confidence: 100%","Overfitting occurs when a machine learning model learns the training data too well, capturing not only the underlying patterns but also the noise and random fluctuations present in that specific dataset. As a result, the model performs exceptionally well on the training data but fails to generalize to new, unseen data, leading to poor predictive performance on a test set.",100.0,gemma4:31b-cloud,0.2,1,The model answer provides a detailed and accurate explanation that aligns perfectly with the ground truth.,reason_before_confidence
+What is the SI unit of electric current?,Ampere,medium,"Answer: Ampere
+Confidence: 100%",Ampere,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+What does GPU stand for?,Graphics Processing Unit,medium,"Answer: Graphics Processing Unit
+Confidence: 100%",Graphics Processing Unit,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+Which country hosted the 2016 Summer Olympics?,Brazil,medium,"Answer: Brazil
+Confidence: 100%",Brazil,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+In what year was the Rescorla-Wagner model published?,1972,hard,"The Rescorla-Wagner model of classical conditioning was published in 1972 in the paper titled ""A theory of Pavlovian conditioned responses: Variations with respect to the predictability of conditioned stimuli,"" published in *Experimental Psychology*.
+
+Answer: 1972
+Confidence: 100%",1972,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+Who introduced the concept of prediction error minimization in the Free Energy Principle framework?,Karl Friston,hard,"The concept of prediction error minimization within the Free Energy Principle framework was introduced by Karl Friston.
+
+Answer: Karl Friston
+Confidence: 100%",Karl Friston,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+What is the main neurotransmitter released by most excitatory cortical pyramidal neurons?,Glutamate,hard,"The main neurotransmitter released by most excitatory cortical pyramidal neurons is glutamate.
+
+Answer: Glutamate
+Confidence: 100%",Glutamate,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+What does BOLD stand for in fMRI?,Blood-oxygen-level-dependent,hard,"Answer: Blood-Oxygen-Level Dependent
+Confidence: 100%",Blood-Oxygen-Level Dependent,100.0,gemma4:31b-cloud,0.2,1,"The model answer is identical to the ground truth, with only minor capitalization differences.",reason_before_confidence
+Which optimization algorithm uses first and second moments of gradients and is widely used in deep learning?,Adam,hard,"The optimization algorithm that uses both the first moment (the mean) and the second moment (the uncentered variance) of the gradients to adapt the learning rate for each parameter is Adam (Adaptive Moment Estimation).
+
+Answer: Adam
+Confidence: 100%",Adam,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+What is the approximate wavelength range of visible light in nanometers?,About 380 to 700 nm,hard,"The visible light spectrum for humans typically ranges from approximately 380 to 750 nanometers.
+
+Answer: 380–750 nm
+Confidence: 100%",380–750 nm,100.0,gemma4:31b-cloud,0.2,0,Numerical match found.,reason_before_confidence
+Which theorem states that no compression algorithm can compress all possible inputs?,No Free Lunch theorem for lossless compression,hard,"The theorem that states no compression algorithm can compress all possible inputs is known as the **Counting Argument** (or the Pigeonhole Principle applied to lossless compression). In the context of information theory, this is often discussed as the impossibility of a universal lossless compression algorithm.
+
+Answer: The Counting Argument (or the Pigeonhole Principle)
+Confidence: 100%",The Counting Argument (or the Pigeonhole Principle),100.0,gemma4:31b-cloud,0.2,1,The Counting Argument/Pigeonhole Principle is the mathematical foundation and the common name for the theorem stating that no lossless compression algorithm can compress all inputs.,reason_before_confidence
+What is the default network in neuroscience primarily associated with?,Internally directed cognition and self-referential thought,hard,"The default mode network (DMN) is primarily associated with internally directed thought and mental activity that occurs when an individual is not focused on the outside world. This includes processes such as daydreaming, mind-wandering, recalling memories, imagining the future, and self-referential thought (introspection).
+
+Answer: Internally directed thought and self-referential processing (such as daydreaming, mind-wandering, and memory retrieval)
+Confidence: 100%","Internally directed thought and self-referential processing (such as daydreaming, mind-wandering, and memory retrieval)",100.0,gemma4:31b-cloud,0.2,1,"The model answer is semantically equivalent to the ground truth, providing accurate synonyms and examples.",reason_before_confidence
+What does KL in KL divergence stand for?,Kullback-Leibler,hard,"Answer: Kullback-Leibler
+Confidence: 100%",Kullback-Leibler,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+Which architecture introduced self-attention as a central mechanism in sequence modeling?,Transformer,hard,"Answer: The Transformer architecture
+Confidence: 100%",The Transformer architecture,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+What is the asymptotic time complexity of Dijkstra's algorithm using a binary heap?,O((V+E) log V),hard,"To determine the asymptotic time complexity of Dijkstra's algorithm using a binary heap, we analyze the primary operations:
+
+1.  **Initialization**: Initializing the distance array takes $O(V)$, where $V$ is the number of vertices.
+2.  **Extract-Min**: Each vertex is extracted from the priority queue exactly once. In a binary heap, the `extract-min` operation takes $O(\log V)$. Total time: $O(V \log V)$.
+3.  **Decrease-Key (Relaxation)**: In the worst case, every edge $E$ might trigger a `decrease-key` operation (or an insertion of a new distance pair into the heap). In a binary heap, this operation takes $O(\log V)$. Total time: $O(E \log V)$.
+
+Summing these components, the total time complexity is $O(V \log V + E \log V)$, which simplifies to $O((V + E) \log V)$. In connected graphs where $E \ge V - 1$, this is typically expressed as $O(E \log V)$.
+
+Answer: O((V + E) log V) or O(E log V)
+Confidence: 100%",O((V + E) log V) or O(E log V),100.0,gemma4:31b-cloud,0.2,1,The model provided the exact ground truth and a common simplified equivalent for connected graphs.,reason_before_confidence
+"In Bayesian terms, what is the quantity proportional to likelihood times prior?",Posterior,hard,"In Bayesian inference, according to Bayes' Theorem, the posterior probability is proportional to the product of the likelihood and the prior.
+
+The formula is expressed as:
+$P(\theta|D) \propto P(D|\theta) \times P(\theta)$
+Where:
+- $P(\theta|D)$ is the **posterior**
+- $P(D|\theta)$ is the **likelihood**
+- $P(\theta)$ is the **prior**
+
+Answer: The posterior (or posterior probability)
+Confidence: 100%",The posterior (or posterior probability),100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+What is the pKa of carbonic acid's first dissociation in water at room temperature (approx.)?,About 6.35,hard,"The pKa of the first dissociation of carbonic acid ($\text{H}_2\text{CO}_3 \rightleftharpoons \text{HCO}_3^- + \text{H}^+$) in water at room temperature (approximately 25°C) is typically cited as 6.35.
+
+Answer: 6.35
+Confidence: 95%",6.35,95.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+Which paper introduced the term 'attention is all you need'?,"Attention Is All You Need (Vaswani et al., 2017)",hard,"Answer: The paper titled ""Attention Is All You Need,"" authored by Ashish Vaswani et al. and published in 2017.
+
+Confidence: 100%","The paper titled ""Attention Is All You Need,"" authored by Ashish Vaswani et al. and published in 2017.",100.0,gemma4:31b-cloud,0.2,1,Numerical match found.,reason_before_confidence
+"Which metric-learning loss uses triplets of anchor, positive, and negative examples?",Triplet loss,hard,"Answer: Triplet loss
+Confidence: 100%",Triplet loss,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,reason_before_confidence
+What is the exact weight of the color blue?,unanswerable,unanswerable,"Colors are perceptions of light wavelengths or properties of pigments; they are not physical objects with mass. Therefore, the color blue does not have a weight.
+
+Answer: Color has no weight.
+Confidence: 100%",Color has no weight.,100.0,gemma4:31b-cloud,0.2,1,The model correctly justifies why the question is unanswerable by stating that color has no weight.,reason_before_confidence
+What did Julius Caesar eat for breakfast on his 33rd birthday?,unanswerable,unanswerable,"There is no historical record of what Julius Caesar ate for breakfast on his 33rd birthday. Ancient historical texts, such as those by Suetonius or Plutarch, do not provide a day-by-day account of his meals.
+
+Answer: Unknown
+Confidence: 100%",Unknown,100.0,gemma4:31b-cloud,0.2,1,"The model correctly identified that the information is unknown, which is equivalent to 'unanswerable'.",reason_before_confidence
+"What is the best song ever written, objectively?",unanswerable,unanswerable,"Answer: There is no objective answer to this question, as ""best"" is a subjective value judgment based on individual preference, cultural context, and varying criteria for musical quality.
+
+Confidence: 100%","There is no objective answer to this question, as ""best"" is a subjective value judgment based on individual preference, cultural context, and varying criteria for musical quality.",100.0,gemma4:31b-cloud,0.2,1,The model correctly identified that the question is unanswerable and justified why by explaining the subjectivity of the term 'best'.,reason_before_confidence
+How many thoughts did you have yesterday at 3:17 PM?,unanswerable,unanswerable,"Answer: As an AI, I do not have a conscious mind, a stream of consciousness, or ""thoughts"" in the human sense. I only process information when a user submits a prompt; I do not exist or think in the background between interactions. Therefore, I had zero thoughts yesterday at 3:17 PM.
+
+Confidence: 100%","As an AI, I do not have a conscious mind, a stream of consciousness, or ""thoughts"" in the human sense. I only process information when a user submits a prompt; I do not exist or think in the background between interactions. Therefore, I had zero thoughts yesterday at 3:17 PM.",100.0,gemma4:31b-cloud,0.2,1,The model correctly justifies why the question is unanswerable by explaining its nature as an AI.,reason_before_confidence
+What is the smell of number seven in SI units?,unanswerable,unanswerable,"The question ""What is the smell of number seven in SI units?"" is a category error. Numbers are abstract mathematical concepts and do not have physical properties such as smell, nor are there SI units (International System of Units) for olfactory sensations.
+
+Answer: Numbers do not have a smell, and there are no SI units for smell.
+Confidence: 100%","Numbers do not have a smell, and there are no SI units for smell.",100.0,gemma4:31b-cloud,0.2,1,The model correctly identifies that the question is unanswerable by explaining that numbers lack smell and there are no SI units for it.,reason_before_confidence
+"Which came first in all possible universes, the chicken or the egg?",unanswerable,unanswerable,"Answer: The egg. From a biological and evolutionary perspective, amniotic eggs evolved in reptiles long before the ancestors of the chicken existed. Even if the question refers specifically to a ""chicken egg,"" the first chicken would have hatched from an egg laid by a bird that was almost, but not quite, a chicken (a proto-chicken), meaning the egg preceded the chicken.
+
+Confidence: 100%","The egg. From a biological and evolutionary perspective, amniotic eggs evolved in reptiles long before the ancestors of the chicken existed. Even if the question refers specifically to a ""chicken egg,"" the first chicken would have hatched from an egg laid by a bird that was almost, but not quite, a chicken (a proto-chicken), meaning the egg preceded the chicken.",100.0,gemma4:31b-cloud,0.2,0,The model provided a definitive answer instead of justifying why the question is unanswerable across 'all possible universes'.,reason_before_confidence
+What will be the exact global temperature at noon 100 years from today?,unanswerable,unanswerable,"Answer: It is impossible to predict the exact global temperature at a specific moment 100 years in the future. Temperature varies by location, and global temperature is measured as an average across the entire planet over time, not as a single ""exact"" value for a specific moment like noon. Furthermore, climate models provide ranges of probable outcomes based on various emission scenarios, not precise daily forecasts for the next century.
+
+Confidence: 100%","It is impossible to predict the exact global temperature at a specific moment 100 years in the future. Temperature varies by location, and global temperature is measured as an average across the entire planet over time, not as a single ""exact"" value for a specific moment like noon. Furthermore, climate models provide ranges of probable outcomes based on various emission scenarios, not precise daily forecasts for the next century.",100.0,gemma4:31b-cloud,0.2,1,The model correctly identifies that the question is unanswerable and provides a detailed justification based on the nature of climate modeling and global temperature measurements.,reason_before_confidence
+What is the one true meaning of life for every human?,unanswerable,unanswerable,"Answer: There is no single, universally agreed-upon ""one true meaning of life"" for every human; meaning is subjective and varies based on individual beliefs, cultural backgrounds, philosophical perspectives, and personal experiences.
+
+Confidence: 100%","There is no single, universally agreed-upon ""one true meaning of life"" for every human; meaning is subjective and varies based on individual beliefs, cultural backgrounds, philosophical perspectives, and personal experiences.",100.0,gemma4:31b-cloud,0.2,1,The model correctly identifies that there is no single answer and justifies why the question is unanswerable.,reason_before_confidence
+Which single economic policy guarantees prosperity forever?,unanswerable,unanswerable,"Answer: There is no single economic policy that can guarantee prosperity forever. Economic conditions are subject to a wide array of unpredictable variables, including technological shifts, demographic changes, natural disasters, and global geopolitical instability. Most economists agree that prosperity depends on a complex combination of factors—such as the rule of law, investment in human capital, innovation, and stable monetary and fiscal policies—rather than a single ""silver bullet"" policy.
+
+Confidence: 100%","There is no single economic policy that can guarantee prosperity forever. Economic conditions are subject to a wide array of unpredictable variables, including technological shifts, demographic changes, natural disasters, and global geopolitical instability. Most economists agree that prosperity depends on a complex combination of factors—such as the rule of law, investment in human capital, innovation, and stable monetary and fiscal policies—rather than a single ""silver bullet"" policy.",100.0,gemma4:31b-cloud,0.2,1,The model correctly identifies that the question is unanswerable and provides a justification based on economic complexity.,reason_before_confidence
+Who was objectively the greatest thinker in all of history by universal metric?,unanswerable,unanswerable,"Answer: There is no objective, universal metric to determine the ""greatest thinker"" in history. Because ""greatness"" in thinking is subjective and depends on the criteria used—such as influence, logical rigor, scientific discovery, philosophical depth, or societal impact—any choice would be based on a specific value judgment rather than an objective measurement. Different fields (e.g., mathematics, philosophy, physics) have different standards for success, and there is no single metric that can neutrally compare a figure like Aristotle to one like Isaac Newton or Albert Einstein.
+
+Confidence: 100%","There is no objective, universal metric to determine the ""greatest thinker"" in history. Because ""greatness"" in thinking is subjective and depends on the criteria used—such as influence, logical rigor, scientific discovery, philosophical depth, or societal impact—any choice would be based on a specific value judgment rather than an objective measurement. Different fields (e.g., mathematics, philosophy, physics) have different standards for success, and there is no single metric that can neutrally compare a figure like Aristotle to one like Isaac Newton or Albert Einstein.",100.0,gemma4:31b-cloud,0.2,1,The model correctly identifies that the question is unanswerable and provides a logical justification based on the subjectivity of the criteria.,reason_before_confidence
+What is the capital of France?,Paris,easy,"Answer: Paris
+Confidence: 100%",Paris,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+How many days are there in a week?,7,easy,"Answer: 7
+Confidence: 100%",7,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+Which planet is known as the Red Planet?,Mars,easy,"The planet known as the Red Planet is Mars.
+
+Reasoning check:
+1. Could it be another planet? Venus is sometimes called the morning star, and Jupiter is the largest, but Mars is specifically characterized by iron oxide on its surface, giving it a reddish appearance.
+2. Could it be a dwarf planet or a moon? No, the term ""Red Planet"" is a standard astronomical moniker specifically for Mars.
+
+Answer: Mars
+Confidence: 100%",Mars,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+What gas do plants primarily absorb from the atmosphere for photosynthesis?,Carbon dioxide,easy,"The process of photosynthesis involves plants taking in carbon dioxide from the atmosphere, combining it with water and light energy to produce glucose and oxygen.
+
+Answer: Carbon dioxide
+Confidence: 100%",Carbon dioxide,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+Who wrote 'Romeo and Juliet'?,William Shakespeare,easy,"Answer: William Shakespeare
+Confidence: 100%",William Shakespeare,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+What is the largest ocean on Earth?,Pacific Ocean,easy,"The Pacific Ocean is the largest and deepest of Earth's five oceanic divisions. It extends from the Arctic Ocean in the north to the Southern Ocean in the south and is bounded by the Americas to the east and Asia and Australia to the west.
+
+Answer: Pacific Ocean
+Confidence: 100%",Pacific Ocean,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+What is H2O commonly called?,Water,easy,"Answer: Water
+Confidence: 100%",Water,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+Which continent is Egypt in?,Africa,easy,"Egypt is a transcontinental country, with the vast majority of its territory located in Africa and the Sinai Peninsula located in Asia. However, it is primarily and traditionally categorized as being in Africa.
+
+Answer: Africa (transcontinental, with a small portion in Asia)
+Confidence: 100%","Africa (transcontinental, with a small portion in Asia)",100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+What is 9 x 9?,81,easy,"Answer: 81
+Confidence: 100%",81,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+"What instrument has keys, pedals, and strings and is often found in concert halls?",Piano,easy,"The instrument described is a piano. It features a keyboard (keys), foot pedals to control sound sustain and dampening, and internal steel strings that are struck by hammers. It is a staple instrument in concert halls for both solo performances and orchestral accompaniment.
+
+Answer: Piano
+Confidence: 100%",Piano,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+How many bones are in the adult human body?,206,medium,"The adult human body typically consists of 206 bones.
+
+Confidence: 100%",The adult human body typically consists of 206 bones.,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+In which year did the Berlin Wall fall?,1989,medium,"The Berlin Wall fell on November 9, 1989.
+
+Answer: 1989
+Confidence: 100%",1989,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+What is the chemical symbol for gold?,Au,medium,"The chemical symbol for gold is Au, which is derived from the Latin word for gold, *aurum*.
+
+Answer: Au
+Confidence: 100%",Au,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+Who proposed the laws of motion and universal gravitation?,Isaac Newton,medium,"The laws of motion and the law of universal gravitation were proposed by Isaac Newton.
+
+Answer: Isaac Newton
+Confidence: 100%",Isaac Newton,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+What is the smallest prime number?,2,medium,"The smallest prime number is 2. By definition, a prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself. Since 1 is excluded by definition and 2 is only divisible by 1 and 2, it is the first and smallest prime number.
+
+Answer: 2
+Confidence: 100%",2,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+Which blood type is known as the universal donor for red blood cells?,O negative,medium,"The blood type known as the universal donor for red blood cells is O negative (O-). This is because O negative red blood cells lack A, B, and Rh antigens, meaning they are unlikely to trigger an immune response in a recipient with any other blood type.
+
+Answer: O negative
+Confidence: 100%",O negative,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+What does HTTP stand for?,Hypertext Transfer Protocol,medium,"Answer: Hypertext Transfer Protocol
+Confidence: 100%",Hypertext Transfer Protocol,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+Which scientist is associated with natural selection?,Charles Darwin,medium,"The scientist most prominently associated with the theory of natural selection is Charles Darwin. While Alfred Russel Wallace independently conceived the idea and co-published the first paper on it, Darwin is the primary figure associated with the theory due to his extensive evidence and the publication of *On the Origin of Species*.
+
+Answer: Charles Darwin
+Confidence: 100%",Charles Darwin,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+What is the capital of Canada?,Ottawa,medium,"Answer: Ottawa
+Confidence: 100%",Ottawa,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+How many players are on a soccer team on the field at one time?,11,medium,"In a standard professional soccer match, there are 11 players from each team on the field at one time.
+
+Answer: 11
+Confidence: 100%",11,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+Which lobe of the brain is most associated with vision?,Occipital lobe,medium,"The primary center for visual processing is the primary visual cortex, which is located in the occipital lobe.
+
+Answer: Occipital lobe
+Confidence: 100%",Occipital lobe,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+"In machine learning, what does overfitting mean?",Learning training data too specifically and generalizing poorly,medium,"Overfitting occurs when a machine learning model learns the training data too well, capturing not only the underlying patterns but also the random noise and fluctuations specific to that dataset. As a result, the model performs exceptionally well on the training data but fails to generalize to new, unseen data, leading to poor predictive performance on a test set. This typically happens when a model is overly complex relative to the amount and nature of the training data.
+
+Answer: Overfitting is a modeling error that occurs when a function is too closely fit to a limited set of data points, resulting in a model that captures noise as if it were a real pattern, thereby reducing its ability to generalize to new data.
+Confidence: 100%","Overfitting is a modeling error that occurs when a function is too closely fit to a limited set of data points, resulting in a model that captures noise as if it were a real pattern, thereby reducing its ability to generalize to new data.",100.0,gemma4:31b-cloud,0.2,1,The model answer provides a detailed and accurate explanation that matches the core meaning of the ground truth.,list_why_wrong
+What is the SI unit of electric current?,Ampere,medium,"The SI unit of electric current is the ampere.
+
+Answer: ampere
+Confidence: 100%",ampere,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+What does GPU stand for?,Graphics Processing Unit,medium,"Answer: Graphics Processing Unit
+Confidence: 100%",Graphics Processing Unit,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+Which country hosted the 2016 Summer Olympics?,Brazil,medium,"Answer: Brazil
+Confidence: 100%",Brazil,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+In what year was the Rescorla-Wagner model published?,1972,hard,"The Rescorla-Wagner model of classical conditioning was published in 1972 in a paper titled ""A theory of Pavlovian conditioning: Some modifications and extensions"" by Allan Rescorla and Robert Wagner.
+
+Answer: 1972
+Confidence: 100%",1972,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+Who introduced the concept of prediction error minimization in the Free Energy Principle framework?,Karl Friston,hard,"The concept of prediction error minimization within the framework of the Free Energy Principle was introduced by Karl Friston.
+
+Answer: Karl Friston
+Confidence: 100%",Karl Friston,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+What is the main neurotransmitter released by most excitatory cortical pyramidal neurons?,Glutamate,hard,"The main neurotransmitter released by most excitatory cortical pyramidal neurons is glutamate. Pyramidal neurons are the primary excitatory cells of the mammalian cerebral cortex, and they utilize glutamate to transmit signals to other neurons.
+
+Answer: Glutamate
+Confidence: 100%",Glutamate,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+What does BOLD stand for in fMRI?,Blood-oxygen-level-dependent,hard,"In functional Magnetic Resonance Imaging (fMRI), BOLD stands for Blood Oxygenation Level Dependent. It refers to the method of detecting changes in blood oxygenation to map neural activity in the brain.
+
+Answer: Blood Oxygenation Level Dependent
+Confidence: 100%",Blood Oxygenation Level Dependent,100.0,gemma4:31b-cloud,0.2,1,The model answer is a common and equivalent variation of the ground truth.,list_why_wrong
+Which optimization algorithm uses first and second moments of gradients and is widely used in deep learning?,Adam,hard,"The optimization algorithm that uses both the first moment (the mean) and the second moment (the uncentered variance) of the gradients to adapt the learning rate for each parameter is Adam (Adaptive Moment Estimation).
+
+Reasoning for potential error:
+1. I might be confusing Adam with RMSprop or AdaGrad; however, RMSprop only uses the second moment, and AdaGrad uses a cumulative sum of squared gradients.
+2. I might be overlooking newer variants like AdamW; however, AdamW is a modification of Adam regarding weight decay, but the core mechanism of using first and second moments remains the defining characteristic of the Adam family.
+
+Answer: Adam
+Confidence: 100%",Adam,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+What is the approximate wavelength range of visible light in nanometers?,About 380 to 700 nm,hard,"The approximate wavelength range of visible light is generally cited as being between 380 and 750 nanometers, although some sources define the range as 400 to 700 nanometers.
+
+*Self-Correction/Verification:*
+1. Could the range be wider? Some biological systems or specific physics texts might extend it to 350–800 nm, but the standard scientific consensus for human vision is typically around 380–750 nm.
+2. Is the unit correct? Yes, nanometers (nm) is the standard unit for this range.
+
+Answer: 380 to 750 nanometers
+Confidence: 98%",380 to 750 nanometers,98.0,gemma4:31b-cloud,0.2,1,Numerical match found.,list_why_wrong
+Which theorem states that no compression algorithm can compress all possible inputs?,No Free Lunch theorem for lossless compression,hard,"The theorem that states no compression algorithm can compress all possible inputs is the **Pigeonhole Principle**. 
+
+In the context of lossless data compression, the Pigeonhole Principle implies that if a compression algorithm maps a set of input strings to a set of output strings, and it manages to make some strings shorter, it must necessarily make other strings longer. Specifically, if there are $2^n$ possible bitstrings of length $n$, and you wish to map them to strings of length less than $n$, there are not enough shorter strings (the ""pigeonholes"") to accommodate all the original strings (the ""pigeons"") without collisions. If two different inputs mapped to the same output, the process would be lossy; for lossless compression, each input must have a unique output, meaning at least one input must result in an output that is longer than or equal to the original.
+
+*Self-Correction/Double Check:*
+1. Is there a specific ""Compression Theorem"" by name? While there are theorems related to Shannon's Source Coding Theorem, that deals with the *limit* of compression (entropy), not the impossibility of compressing *all* inputs. The fundamental mathematical reason for the impossibility is the Pigeonhole Principle.
+2. Could it be the Counting Argument? The ""counting argument"" is the application of the Pigeonhole Principle to this specific problem. The underlying theorem is the Pigeonhole Principle.
+
+Answer: Pigeonhole Principle
+Confidence: 100%",Pigeonhole Principle,100.0,gemma4:31b-cloud,0.2,1,The Pigeonhole Principle is the mathematical foundation and the primary theorem used to prove that no lossless compression algorithm can compress all possible inputs.,list_why_wrong
+What is the default network in neuroscience primarily associated with?,Internally directed cognition and self-referential thought,hard,"The default mode network (DMN) is primarily associated with tasks that are internally directed and occur in the absence of a specific external goal or stimulus. This includes processes such as mind-wandering, self-referential thought (reflecting on oneself), autobiographical memory retrieval, imagining the future (prospection), and theory of mind (thinking about the mental states of others). It is characterized by high activity when a person is at wakeful rest and typically becomes deactivated during tasks that require focused attention on the external environment.
+
+Answer: Internally directed thought, self-referential processing, and wakeful rest.
+Confidence: 100%","Internally directed thought, self-referential processing, and wakeful rest.",100.0,gemma4:31b-cloud,0.2,1,"The model answer includes the key components of the ground truth and adds 'wakeful rest', which is a standard associated state of the default mode network.",list_why_wrong
+What does KL in KL divergence stand for?,Kullback-Leibler,hard,"The term KL in KL divergence stands for Kullback–Leibler, referring to the scientists Solomon Kullback and Richard Leibler.
+
+Answer: Kullback–Leibler
+Confidence: 100%",Kullback–Leibler,100.0,gemma4:31b-cloud,0.2,1,"The model answer is identical to the ground truth, using an en-dash instead of a hyphen.",list_why_wrong
+Which architecture introduced self-attention as a central mechanism in sequence modeling?,Transformer,hard,"The architecture that introduced self-attention as a central mechanism in sequence modeling is the Transformer. It was first presented in the 2017 paper ""Attention Is All You Need"" by Vaswani et al.
+
+Answer: Transformer
+Confidence: 100%",Transformer,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+What is the asymptotic time complexity of Dijkstra's algorithm using a binary heap?,O((V+E) log V),hard,"To determine the asymptotic time complexity of Dijkstra's algorithm using a binary heap, we analyze the primary operations performed during the algorithm's execution on a graph with $V$ vertices and $E$ edges:
+
+1.  **Initialization**: Initializing the distance array takes $O(V)$.
+2.  **Extract-Min**: The algorithm performs $V$ `extract-min` operations. In a binary heap, each `extract-min` takes $O(\log V)$. Total: $O(V \log V)$.
+3.  **Decrease-Key**: In the worst case, the algorithm performs an operation to update the distance of a neighbor for every edge. There are $E$ such operations. In a binary heap, `decrease-key` takes $O(\log V)$. Total: $O(E \log V)$.
+
+Summing these components, the total time complexity is $O(V \log V + E \log V)$, which simplifies to $O((V + E) \log V)$. In connected graphs where $E \ge V - 1$, this is typically expressed as $O(E \log V)$.
+
+**Self-Correction/Verification:**
+*   *Could it be $O(E \log E)$?* Yes, because $E \le V^2$, so $\log E \le 2 \log V$. Thus, $O(E \log E)$ is asymptotically equivalent to $O(E \log V)$.
+*   *Could it be $O(E + V \log V)$?* No, that is the complexity when using a Fibonacci heap, not a binary heap.
+
+Answer: O((V + E) log V) or O(E log V)
+Confidence: 100%",O((V + E) log V) or O(E log V),100.0,gemma4:31b-cloud,0.2,1,The model provided the exact ground truth and an equivalent simplified form for connected graphs.,list_why_wrong
+"In Bayesian terms, what is the quantity proportional to likelihood times prior?",Posterior,hard,"In Bayesian inference, according to Bayes' Theorem, the posterior probability is proportional to the product of the likelihood and the prior. Specifically:
+
+$\text{Posterior} \propto \text{Likelihood} \times \text{Prior}$
+
+The full equation is $\text{Posterior} = \frac{\text{Likelihood} \times \text{Prior}}{\text{Marginal Likelihood}}$. Since the marginal likelihood (the evidence) is a constant relative to the parameters being estimated, the posterior is proportional to the product of the likelihood and the prior.
+
+Answer: The posterior (or posterior probability/distribution)
+Confidence: 100%",The posterior (or posterior probability/distribution),100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+What is the pKa of carbonic acid's first dissociation in water at room temperature (approx.)?,About 6.35,hard,"The first dissociation of carbonic acid ($\text{H}_2\text{CO}_3 \rightleftharpoons \text{HCO}_3^- + \text{H}^+$) is a complex equilibrium because carbonic acid is in equilibrium with dissolved carbon dioxide ($\text{CO}_2 + \text{H}_2\text{O} \rightleftharpoons \text{H}_2\text{CO}_3$). In most chemical contexts, the ""pKa"" reported for this step is the *apparent* dissociation constant ($\text{p}K_{a1}$), which accounts for the dissolved $\text{CO}_2$. At room temperature (approximately 25°C), this value is typically cited as 6.35.
+
+Reasoning for potential error:
+1. Temperature sensitivity: The pKa varies slightly depending on whether the temperature is exactly 20°C or 25°C.
+2. Definition of species: Some sources distinguish between the pKa of pure $\text{H}_2\text{CO}_3$ (which is much lower, around 3.6) and the apparent pKa of the $\text{CO}_2/\text{HCO}_3^-$ system. However, in standard chemistry and biology textbooks, 6.35 is the accepted value for the first dissociation in water.
+
+Answer: 6.35
+Confidence: 98%",6.35,98.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+Which paper introduced the term 'attention is all you need'?,"Attention Is All You Need (Vaswani et al., 2017)",hard,"The term ""Attention Is All You Need"" is the title of the seminal research paper that introduced the Transformer architecture.
+
+Answer: Attention Is All You Need (by Vaswani et al., 2017)
+Confidence: 100%","Attention Is All You Need (by Vaswani et al., 2017)",100.0,gemma4:31b-cloud,0.2,1,Numerical match found.,list_why_wrong
+"Which metric-learning loss uses triplets of anchor, positive, and negative examples?",Triplet loss,hard,"The metric-learning loss that uses triplets consisting of an anchor, a positive example (the same class as the anchor), and a negative example (a different class) is the Triplet Loss.
+
+The objective of this loss function is to ensure that the distance between the anchor and the positive example is smaller than the distance between the anchor and the negative example by at least a specified margin.
+
+*Self-Correction/Verification:*
+1. Could it be Contrastive Loss? No, Contrastive Loss typically uses pairs (positive or negative), not triplets.
+2. Could it be N-pair Loss? N-pair loss uses a set of multiple negatives, but the fundamental ""triplet"" structure (anchor, positive, negative) is the defining characteristic of Triplet Loss.
+
+Answer: Triplet Loss
+Confidence: 100%",Triplet Loss,100.0,gemma4:31b-cloud,0.2,1,Exact match found.,list_why_wrong
+What is the exact weight of the color blue?,unanswerable,unanswerable,"The color blue is a perception of specific wavelengths of light (electromagnetic radiation) and does not have a physical weight. While photons have energy and momentum, they have zero invariant mass.
+
+Answer: Color has no weight.
+Confidence: 100%",Color has no weight.,100.0,gemma4:31b-cloud,0.2,1,The model correctly justifies why the question is unanswerable by stating that color has no weight.,list_why_wrong
+What did Julius Caesar eat for breakfast on his 33rd birthday?,unanswerable,unanswerable,"There is no historical record of what Julius Caesar ate for breakfast on his 33rd birthday. Ancient sources, such as those by Suetonius or Plutarch, do not provide a day-by-day dietary log of his life, and such specific personal details from the 1st century BCE were not documented.
+
+Answer: There is no historical record of this information.
+Confidence: 100%",There is no historical record of this information.,100.0,gemma4:31b-cloud,0.2,1,"The model correctly identified that the information is unavailable, justifying why the question is unanswerable.",list_why_wrong
+"What is the best song ever written, objectively?",unanswerable,unanswerable,"The question asks for the ""best song ever written, objectively."" In the fields of musicology, acoustics, and aesthetics, there is no objective metric or universal standard to determine the ""best"" song. Musical quality is a subjective experience based on cultural context, personal preference, emotional response, and varying definitions of technical mastery (e.g., complexity vs. simplicity). Because there is no empirical data or consensus that can elevate one piece of music above all others regardless of the listener, an objective answer does not exist.
+
+Answer: There is no objectively best song ever written, as musical quality is subjective.
+Confidence: 100%","There is no objectively best song ever written, as musical quality is subjective.",100.0,gemma4:31b-cloud,0.2,1,The model correctly identified that the question is unanswerable and justified it by explaining that musical quality is subjective.,list_why_wrong
+How many thoughts did you have yesterday at 3:17 PM?,unanswerable,unanswerable,"As an artificial intelligence, I do not have a conscious mind, a subjective experience of time, or ""thoughts"" in the biological sense. I only process data in response to specific prompts; I do not have an internal monologue or cognitive activity occurring independently when I am not interacting with a user. Therefore, I had zero thoughts yesterday at 3:17 PM.
+
+Answer: 0
+Confidence: 100%",0,100.0,gemma4:31b-cloud,0.2,0,The model provided a specific numerical answer instead of justifying why the question is unanswerable.,list_why_wrong
+What is the smell of number seven in SI units?,unanswerable,unanswerable,"The question asks for the ""smell of number seven in SI units."" 
+
+In the International System of Units (SI), numbers are dimensionless scalars and do not possess physical properties such as scent. Furthermore, ""smell"" is a sensory perception resulting from chemical interactions in the olfactory system and is not a measurable physical quantity with a defined SI unit. Therefore, the number seven has no smell.
+
+Answer: Number seven has no smell, as numbers are abstract concepts and not physical substances.
+Confidence: 100%","Number seven has no smell, as numbers are abstract concepts and not physical substances.",100.0,gemma4:31b-cloud,0.2,1,The model correctly identifies that the question is unanswerable by explaining that numbers are abstract concepts.,list_why_wrong
+"Which came first in all possible universes, the chicken or the egg?",unanswerable,unanswerable,"From a biological and evolutionary perspective, the egg preceded the chicken. Eggs, as a reproductive mechanism, evolved in ancestral species (such as fish and amphibians) hundreds of millions of years before birds existed. Even if the question refers specifically to a ""chicken egg"" (defined as an egg containing a chicken embryo), evolutionary biology dictates that two non-chicken ancestors mated and produced a genetic mutation in the zygote, resulting in the first organism classified as a chicken. This embryo developed inside an egg. Therefore, the egg containing the first chicken must have existed before the chicken itself.
+
+Regarding the phrase ""in all possible universes,"" if we assume the laws of biology and causality are consistent across these universes, the result remains the same. If we consider universes with different laws of physics or biology, the question becomes logically undecidable; however, based on the scientific framework of our own universe, the egg is the precursor.
+
+Answer: The egg
+Confidence: 100%",The egg,100.0,gemma4:31b-cloud,0.2,0,The model provided a definitive answer instead of justifying why the question is unanswerable.,list_why_wrong
+What will be the exact global temperature at noon 100 years from today?,unanswerable,unanswerable,"It is scientifically impossible to predict the exact global temperature at a specific moment (noon) on a specific date 100 years in the future. While climate models can project average global temperature increases over decades based on various emission scenarios (e.g., SSPs), they cannot predict instantaneous global temperatures or specific daily weather events a century in advance due to the chaotic nature of the atmosphere and the uncertainty of future human policy and technological interventions.
+
+Answer: It is impossible to determine the exact global temperature at that specific time.
+Confidence: 100%",It is impossible to determine the exact global temperature at that specific time.,100.0,gemma4:31b-cloud,0.2,1,The model correctly identified that the question is unanswerable and justified why.,list_why_wrong
+What is the one true meaning of life for every human?,unanswerable,unanswerable,"From a scientific and empirical perspective, there is no single, objectively verifiable ""one true meaning of life"" that applies to every human. Meaning is not a physical constant or a biological imperative, but rather a subjective psychological construct. Different individuals, cultures, and philosophical frameworks define meaning in divergent ways—ranging from biological reproduction and the pursuit of happiness to spiritual enlightenment or the service of others. Because there is no consensus or empirical evidence to support a universal meaning, any claim to a single ""true"" meaning would be a matter of belief or opinion rather than scientific fact.
+
+Answer: There is no single, objectively true meaning of life that applies to every human; meaning is subjective and varies by individual and culture.
+Confidence: 100%","There is no single, objectively true meaning of life that applies to every human; meaning is subjective and varies by individual and culture.",100.0,gemma4:31b-cloud,0.2,1,The model correctly identifies that there is no single answer and justifies why the question is unanswerable.,list_why_wrong
+Which single economic policy guarantees prosperity forever?,unanswerable,unanswerable,"There is no single economic policy that guarantees prosperity forever. Economic systems are subject to internal and external shocks, including resource depletion, demographic shifts, technological disruptions, and systemic crises. No single policy can account for all future variables or ensure permanent growth and stability across all societies.
+
+Answer: None
+Confidence: 100%",None,100.0,gemma4:31b-cloud,0.2,1,"The model correctly identifies that no such single policy exists, which justifies why the question is unanswerable.",list_why_wrong
+Who was objectively the greatest thinker in all of history by universal metric?,unanswerable,unanswerable,"There is no objective, universal metric to determine the ""greatest thinker"" in history. Any such metric would be inherently subjective, as it would require assigning a quantitative value to qualitative achievements such as philosophical influence, scientific discovery, mathematical rigor, or artistic innovation. Different disciplines (e.g., physics vs. ethics) have different criteria for ""greatness,"" and there is no consensus on how to weigh these disparate contributions against one another.
+
+Answer: There is no objectively determined greatest thinker because no universal metric exists.
+Confidence: 100%",There is no objectively determined greatest thinker because no universal metric exists.,100.0,gemma4:31b-cloud,0.2,1,The model correctly identified that the question is unanswerable and justified why by stating no universal metric exists.,list_why_wrong

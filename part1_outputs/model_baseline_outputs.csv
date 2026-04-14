@@ -1,0 +1,107 @@
+question,ground_truth,difficulty,raw_response,model_answer,confidence,model,temperature
+What is the capital of France?,Paris,easy,"Answer: Paris
+Confidence: 100%",Paris,100.0,gemma4:31b-cloud,0.2
+How many days are there in a week?,7,easy,"Answer: 7
+Confidence: 100%",7,100.0,gemma4:31b-cloud,0.2
+Which planet is known as the Red Planet?,Mars,easy,"Answer: Mars
+Confidence: 100%",Mars,100.0,gemma4:31b-cloud,0.2
+What gas do plants primarily absorb from the atmosphere for photosynthesis?,Carbon dioxide,easy,"Answer: Carbon dioxide
+Confidence: 100%",Carbon dioxide,100.0,gemma4:31b-cloud,0.2
+Who wrote 'Romeo and Juliet'?,William Shakespeare,easy,"Answer: William Shakespeare
+Confidence: 100%",William Shakespeare,100.0,gemma4:31b-cloud,0.2
+What is the largest ocean on Earth?,Pacific Ocean,easy,"Answer: Pacific Ocean
+Confidence: 100%",Pacific Ocean,100.0,gemma4:31b-cloud,0.2
+What is H2O commonly called?,Water,easy,"Answer: Water
+Confidence: 100%",Water,100.0,gemma4:31b-cloud,0.2
+Which continent is Egypt in?,Africa,easy,"Answer: Africa (though the Sinai Peninsula is in Asia, Egypt is primarily considered an African country)
+Confidence: 100%","Africa (though the Sinai Peninsula is in Asia, Egypt is primarily considered an African country)",100.0,gemma4:31b-cloud,0.2
+What is 9 x 9?,81,easy,"Answer: 81
+Confidence: 100%",81,100.0,gemma4:31b-cloud,0.2
+"What instrument has keys, pedals, and strings and is often found in concert halls?",Piano,easy,"Answer: Piano
+Confidence: 100%",Piano,100.0,gemma4:31b-cloud,0.2
+How many bones are in the adult human body?,206,medium,"Answer: 206
+Confidence: 100%",206,100.0,gemma4:31b-cloud,0.2
+In which year did the Berlin Wall fall?,1989,medium,"Answer: 1989
+Confidence: 100%",1989,100.0,gemma4:31b-cloud,0.2
+What is the chemical symbol for gold?,Au,medium,"Answer: Au
+Confidence: 100%",Au,100.0,gemma4:31b-cloud,0.2
+Who proposed the laws of motion and universal gravitation?,Isaac Newton,medium,"Answer: Isaac Newton
+Confidence: 100%",Isaac Newton,100.0,gemma4:31b-cloud,0.2
+What is the smallest prime number?,2,medium,"Answer: 2
+Confidence: 100%",2,100.0,gemma4:31b-cloud,0.2
+Which blood type is known as the universal donor for red blood cells?,O negative,medium,"Answer: O negative (O-)
+Confidence: 100%",O negative (O-),100.0,gemma4:31b-cloud,0.2
+What does HTTP stand for?,Hypertext Transfer Protocol,medium,"Answer: Hypertext Transfer Protocol
+Confidence: 100%",Hypertext Transfer Protocol,100.0,gemma4:31b-cloud,0.2
+Which scientist is associated with natural selection?,Charles Darwin,medium,"Answer: Charles Darwin
+Confidence: 100%",Charles Darwin,100.0,gemma4:31b-cloud,0.2
+What is the capital of Canada?,Ottawa,medium,"Answer: Ottawa
+Confidence: 100%",Ottawa,100.0,gemma4:31b-cloud,0.2
+How many players are on a soccer team on the field at one time?,11,medium,"Answer: 11
+Confidence: 100%",11,100.0,gemma4:31b-cloud,0.2
+Which lobe of the brain is most associated with vision?,Occipital lobe,medium,"Answer: Occipital lobe
+Confidence: 100%",Occipital lobe,100.0,gemma4:31b-cloud,0.2
+"In machine learning, what does overfitting mean?",Learning training data too specifically and generalizing poorly,medium,"Answer: Overfitting occurs when a machine learning model learns the training data too well, including its noise and random fluctuations, rather than the underlying pattern. This results in high accuracy on the training set but poor generalization to new, unseen data.
+
+Confidence: 100%","Overfitting occurs when a machine learning model learns the training data too well, including its noise and random fluctuations, rather than the underlying pattern. This results in high accuracy on the training set but poor generalization to new, unseen data.",100.0,gemma4:31b-cloud,0.2
+What is the SI unit of electric current?,Ampere,medium,"Answer: Ampere
+Confidence: 100%",Ampere,100.0,gemma4:31b-cloud,0.2
+What does GPU stand for?,Graphics Processing Unit,medium,"Answer: Graphics Processing Unit
+Confidence: 100%",Graphics Processing Unit,100.0,gemma4:31b-cloud,0.2
+Which country hosted the 2016 Summer Olympics?,Brazil,medium,"Answer: Brazil
+Confidence: 100%",Brazil,100.0,gemma4:31b-cloud,0.2
+In what year was the Rescorla-Wagner model published?,1972,hard,"Answer: 1972
+Confidence: 100%",1972,100.0,gemma4:31b-cloud,0.2
+Who introduced the concept of prediction error minimization in the Free Energy Principle framework?,Karl Friston,hard,"Answer: Karl Friston
+Confidence: 100%",Karl Friston,100.0,gemma4:31b-cloud,0.2
+What is the main neurotransmitter released by most excitatory cortical pyramidal neurons?,Glutamate,hard,"Answer: Glutamate
+Confidence: 100%",Glutamate,100.0,gemma4:31b-cloud,0.2
+What does BOLD stand for in fMRI?,Blood-oxygen-level-dependent,hard,"Answer: Blood Oxygenation Level Dependent (or Blood Oxygen Level Dependent)
+Confidence: 100%",Blood Oxygenation Level Dependent (or Blood Oxygen Level Dependent),100.0,gemma4:31b-cloud,0.2
+Which optimization algorithm uses first and second moments of gradients and is widely used in deep learning?,Adam,hard,"Answer: Adam (Adaptive Moment Estimation)
+Confidence: 100%",Adam (Adaptive Moment Estimation),100.0,gemma4:31b-cloud,0.2
+What is the approximate wavelength range of visible light in nanometers?,About 380 to 700 nm,hard,"Answer: 380 to 750 nanometers
+Confidence: 100%",380 to 750 nanometers,100.0,gemma4:31b-cloud,0.2
+Which theorem states that no compression algorithm can compress all possible inputs?,No Free Lunch theorem for lossless compression,hard,"Answer: The Counting Argument (or the Pigeonhole Principle as applied to lossless compression)
+Confidence: 100%",The Counting Argument (or the Pigeonhole Principle as applied to lossless compression),100.0,gemma4:31b-cloud,0.2
+What is the default network in neuroscience primarily associated with?,Internally directed cognition and self-referential thought,hard,"Answer: The default mode network (DMN) is primarily associated with task-negative activity, such as mind-wandering, self-referential thought, daydreaming, and recalling memories.
+
+Confidence: 100%","The default mode network (DMN) is primarily associated with task-negative activity, such as mind-wandering, self-referential thought, daydreaming, and recalling memories.",100.0,gemma4:31b-cloud,0.2
+What does KL in KL divergence stand for?,Kullback-Leibler,hard,"Answer: Kullback–Leibler
+Confidence: 100%",Kullback–Leibler,100.0,gemma4:31b-cloud,0.2
+Which architecture introduced self-attention as a central mechanism in sequence modeling?,Transformer,hard,"Answer: The Transformer architecture
+Confidence: 100%",The Transformer architecture,100.0,gemma4:31b-cloud,0.2
+What is the asymptotic time complexity of Dijkstra's algorithm using a binary heap?,O((V+E) log V),hard,"Answer: O((V + E) log V), where V is the number of vertices and E is the number of edges.
+Confidence: 100%","O((V + E) log V), where V is the number of vertices and E is the number of edges.",100.0,gemma4:31b-cloud,0.2
+"In Bayesian terms, what is the quantity proportional to likelihood times prior?",Posterior,hard,"Answer: The posterior distribution (or posterior probability)
+Confidence: 100%",The posterior distribution (or posterior probability),100.0,gemma4:31b-cloud,0.2
+What is the pKa of carbonic acid's first dissociation in water at room temperature (approx.)?,About 6.35,hard,"Answer: 6.35
+Confidence: 95%",6.35,95.0,gemma4:31b-cloud,0.2
+Which paper introduced the term 'attention is all you need'?,"Attention Is All You Need (Vaswani et al., 2017)",hard,"Answer: The paper titled ""Attention Is All You Need,"" published in 2017 by Ashish Vaswani et al.
+Confidence: 100%","The paper titled ""Attention Is All You Need,"" published in 2017 by Ashish Vaswani et al.",100.0,gemma4:31b-cloud,0.2
+"Which metric-learning loss uses triplets of anchor, positive, and negative examples?",Triplet loss,hard,"Answer: Triplet loss
+Confidence: 100%",Triplet loss,100.0,gemma4:31b-cloud,0.2
+What is the exact weight of the color blue?,unanswerable,unanswerable,"Answer: Color is a perception of light wavelengths and does not have mass or weight.
+Confidence: 100%",Color is a perception of light wavelengths and does not have mass or weight.,100.0,gemma4:31b-cloud,0.2
+What did Julius Caesar eat for breakfast on his 33rd birthday?,unanswerable,unanswerable,"Answer: There is no historical record of what Julius Caesar ate for breakfast on his 33rd birthday.
+Confidence: 100%",There is no historical record of what Julius Caesar ate for breakfast on his 33rd birthday.,100.0,gemma4:31b-cloud,0.2
+"What is the best song ever written, objectively?",unanswerable,unanswerable,"Answer: There is no objective ""best song ever written"" because musical quality is subjective and based on individual preference, cultural context, and varying aesthetic criteria.
+
+Confidence: 100%","There is no objective ""best song ever written"" because musical quality is subjective and based on individual preference, cultural context, and varying aesthetic criteria.",100.0,gemma4:31b-cloud,0.2
+How many thoughts did you have yesterday at 3:17 PM?,unanswerable,unanswerable,"Answer: Zero. As an AI, I do not have a conscious stream of thought, nor do I exist or process information unless a user provides a prompt.
+Confidence: 100%","Zero. As an AI, I do not have a conscious stream of thought, nor do I exist or process information unless a user provides a prompt.",100.0,gemma4:31b-cloud,0.2
+What is the smell of number seven in SI units?,unanswerable,unanswerable,"Answer: Numbers do not have a smell, and SI units are measurements of physical quantities; therefore, there is no smell associated with the number seven in SI units.
+
+Confidence: 100%","Numbers do not have a smell, and SI units are measurements of physical quantities; therefore, there is no smell associated with the number seven in SI units.",100.0,gemma4:31b-cloud,0.2
+"Which came first in all possible universes, the chicken or the egg?",unanswerable,unanswerable,"Answer: The egg. Evolutionarily, amniotic eggs existed in reptiles and ancestral species long before the specific species *Gallus gallus domesticus* (the chicken) evolved.
+
+Confidence: 100%","The egg. Evolutionarily, amniotic eggs existed in reptiles and ancestral species long before the specific species *Gallus gallus domesticus* (the chicken) evolved.",100.0,gemma4:31b-cloud,0.2
+What will be the exact global temperature at noon 100 years from today?,unanswerable,unanswerable,"Answer: It is impossible to predict the exact global temperature at a specific moment 100 years in the future due to the chaotic nature of weather systems and the uncertainty of future climate variables.
+Confidence: 100%",It is impossible to predict the exact global temperature at a specific moment 100 years in the future due to the chaotic nature of weather systems and the uncertainty of future climate variables.,100.0,gemma4:31b-cloud,0.2
+What is the one true meaning of life for every human?,unanswerable,unanswerable,"Answer: There is no single, universally agreed-upon ""one true meaning of life,"" as the concept is subjective and varies across different philosophical, religious, and individual perspectives.
+Confidence: 100%","There is no single, universally agreed-upon ""one true meaning of life,"" as the concept is subjective and varies across different philosophical, religious, and individual perspectives.",100.0,gemma4:31b-cloud,0.2
+Which single economic policy guarantees prosperity forever?,unanswerable,unanswerable,"Answer: No single economic policy can guarantee prosperity forever, as economic conditions are subject to unpredictable variables, market cycles, and evolving societal needs.
+Confidence: 100%","No single economic policy can guarantee prosperity forever, as economic conditions are subject to unpredictable variables, market cycles, and evolving societal needs.",100.0,gemma4:31b-cloud,0.2
+Who was objectively the greatest thinker in all of history by universal metric?,unanswerable,unanswerable,"Answer: There is no objective, universal metric to determine the ""greatest thinker"" in history, as the criteria for greatness (e.g., influence, originality, logical rigor, or scientific discovery) vary by discipline and perspective.
+
+Confidence: 100%","There is no objective, universal metric to determine the ""greatest thinker"" in history, as the criteria for greatness (e.g., influence, originality, logical rigor, or scientific discovery) vary by discipline and perspective.",100.0,gemma4:31b-cloud,0.2

@@ -1,0 +1,201 @@
+run_id,object,temperature,item_index,use_text
+1,brick,0.7,1,**Nutcracker:** A heavy-duty tool for stubborn walnuts.
+1,brick,0.7,2,"**Bookend:** A minimalist, industrial way to hold up a library."
+1,brick,0.7,3,**Incense Holder:** Drill a small hole in the top to secure a stick.
+1,brick,0.7,4,**DIY Weights:** Wrap it in a towel for a makeshift dumbbell.
+1,brick,0.7,5,"**Doorstop:** The classic, heavy-duty solution for breezy rooms."
+1,brick,0.7,6,**Pasta Press:** Wrap in foil and press tofu or ricotta to remove moisture.
+1,brick,0.7,7,**Aquarium Decor:** A rustic focal point for a fish tank.
+1,brick,0.7,8,**Outdoor Candle Holder:** Carve a shallow divot for a tea light.
+1,brick,0.7,9,**Garden Path Marker:** Paint a symbol on it to denote herb sections.
+1,brick,0.7,10,"**Heat Sink:** Heat it in the oven, wrap it in fabric, and use it as a bed warmer."
+1,brick,0.7,11,**Paint Palette:** Use the flat surface to mix acrylics.
+1,brick,0.7,12,**Paperweight:** Keeps blueprints from flying away on a windy site.
+1,brick,0.7,13,**Boot Scraper:** Use the rough edges to knock mud off your soles.
+1,brick,0.7,14,**Hidden Safe:** Hollow out the center to hide emergency cash.
+1,brick,0.7,15,**Herb Press:** Weigh down greens for drying.
+1,brick,0.7,16,"**Yoga Block:** A sturdy, if slightly abrasive, support for stretches."
+1,brick,0.7,17,**Temporary Table Leg:** Level out a wobbly outdoor table.
+1,brick,0.7,18,"**Sanding Block:** Wrap sandpaper around it for a firm, flat grip."
+1,brick,0.7,19,**Bird Bath Pedestal:** Stack them to elevate a shallow water dish.
+1,brick,0.7,20,**Abstract Sculpture:** Glue several together in a gravity-defying tower.
+2,brick,0.7,1,**Nutcracker:** Use its weight to crack walnuts or macadamias.
+2,brick,0.7,2,**Bookend:** A rustic way to keep a shelf organized.
+2,brick,0.7,3,**Boot Scraper:** Keep it by the door to knock mud off your soles.
+2,brick,0.7,4,"**DIY Heater:** Heat it in the oven, wrap it in a towel, and put it in bed for warmth."
+2,brick,0.7,5,**Paperweight for Wind:** Secure blueprints or maps during an outdoor storm.
+2,brick,0.7,6,"**Aquarium Decor:** Create a ""cave"" or ruins for fish."
+2,brick,0.7,7,**Incense Holder:** Drill a small hole to hold sticks upright.
+2,brick,0.7,8,**Doorstop:** A heavy-duty solution for drafty rooms.
+2,brick,0.7,9,**Paint Palette:** Use the flat surface to mix acrylics.
+2,brick,0.7,10,**Herb Press:** Weight down greens or flowers for drying.
+2,brick,0.7,11,**Improvised Dumbbell:** For light strength training.
+2,brick,0.7,12,**Garden Path Marker:** Paint symbols on them to guide guests.
+2,brick,0.7,13,**Knife Sharpener:** Use the coarse texture to hone a blade in a pinch.
+2,brick,0.7,14,**Cake Leveler:** Use the flat edge to guide a knife when slicing cake layers.
+2,brick,0.7,15,**Towel Holder:** Wrap a brick in fabric to hold a towel flat on a counter.
+2,brick,0.7,16,**Bird Bath Base:** Stack them to elevate a shallow dish.
+2,brick,0.7,17,**Ice Mold:** Freeze water around it to create a structural ice sculpture base.
+2,brick,0.7,18,**Yoga Block:** A rigid alternative for support (if wrapped in foam).
+2,brick,0.7,19,**Rustic Candle Holder:** Carve out small divots for tea lights.
+2,brick,0.7,20,**Sinking Anchor:** Tie a rope to it to keep a light buoy or float in place.
+3,brick,0.7,1,**Nutcracker:** Use its weight to crack hard shells.
+3,brick,0.7,2,**DIY Bookend:** Wrap it in fabric or leather for a brutalist library look.
+3,brick,0.7,3,**Boot Scraper:** Embed it in a porch to clean mud off shoes.
+3,brick,0.7,4,**Incense Holder:** Drill a small hole into the center to hold a stick.
+3,brick,0.7,5,**Improvised Dumbbell:** Grip it for light strength training.
+3,brick,0.7,6,**Paperweight for Windy Days:** Keep outdoor blueprints from flying away.
+3,brick,0.7,7,**Aquarium Decor:** Create a rugged cave for fish (after scrubbing).
+3,brick,0.7,8,"**Doorstop:** A classic, heavy-duty solution for drafty rooms."
+3,brick,0.7,9,**Pasta Press:** Wrap in foil and press tofu or panini sandwiches.
+3,brick,0.7,10,**Garden Edge Marker:** Use them as a rustic border for flower beds.
+3,brick,0.7,11,"**Heat Sink:** Warm it in the oven, wrap in a towel, and use as a foot warmer."
+3,brick,0.7,12,**Paint Palette:** Use the flat surface to mix acrylics.
+3,brick,0.7,13,**Outdoor Candle Holder:** Carve a notch to hold a tea light.
+3,brick,0.7,14,**Bird Bath Base:** Stack them to elevate a shallow basin.
+3,brick,0.7,15,**Rustic Step-Stool:** Use a sturdy brick to reach a slightly higher shelf.
+3,brick,0.7,16,**Clothing Weight:** Keep fabric from shifting while cutting patterns.
+3,brick,0.7,17,**Moss Garden:** Soak it in water to encourage moss growth for a fairy garden.
+3,brick,0.7,18,**Curb Stop:** Wedge it behind a tire on a slight incline.
+3,brick,0.7,19,**Knife Sharpener:** Use the rough side as a coarse whetstone (emergency only).
+3,brick,0.7,20,**Art Canvas:** Paint a miniature mural directly onto the clay.
+4,brick,0.7,1,**Nutcracker:** Use its weight to crack hard-shelled nuts.
+4,brick,0.7,2,**Bookend:** A rustic way to hold up a library.
+4,brick,0.7,3,**DIY Heat Sink:** Heat it in the oven and wrap it in a towel for a foot warmer.
+4,brick,0.7,4,**Incense Holder:** Drill a small hole to hold a stick.
+4,brick,0.7,5,"**Aquarium Decor:** Create a ""cave"" for fish."
+4,brick,0.7,6,**Doorstop:** Prevent drafts or keep a door open.
+4,brick,0.7,7,**Paperweight:** For those particularly windy outdoor projects.
+4,brick,0.7,8,**Pasta Press:** Press tofu or flatten dough.
+4,brick,0.7,9,**Garden Edge:** Line a flower bed for a weathered look.
+4,brick,0.7,10,"**Improvised Dumbbell:** For a quick, heavy workout."
+4,brick,0.7,11,**Paint Palette:** Use the flat surface to mix acrylics.
+4,brick,0.7,12,**Boot Scraper:** Rub muddy soles against the rough texture.
+4,brick,0.7,13,**Rustic Step:** A temporary boost to reach a high shelf.
+4,brick,0.7,14,**Knife Sharpener:** Use the coarse side for emergency honing.
+4,brick,0.7,15,**Candle Pedestal:** Elevate a pillar candle for a loft-style look.
+4,brick,0.7,16,**Flower Frog:** Use a brick with holes (frogs) to hold stems in place.
+4,brick,0.7,17,**Incense Smudge Plate:** A fireproof base for burning sage.
+4,brick,0.7,18,**Towel Holder:** Wrap a leather strap around it to weigh down a towel.
+4,brick,0.7,19,**Outdoor Fire Pit Base:** The foundational layer for a campfire.
+4,brick,0.7,20,**Art Canvas:** Paint a miniature mural directly onto the clay.
+5,brick,0.7,1,**Nutcracker:** Use its flat side to crack walnuts or pecans.
+5,brick,0.7,2,"**Bookend:** Wrap it in fabric or leather for a heavy, industrial page-holder."
+5,brick,0.7,3,"**DIY Heater:** Heat it in an oven, wrap it in a towel, and place it at the foot of your bed."
+5,brick,0.7,4,**Improvised Dumbbell:** Hold it by the sides for a quick upper-body workout.
+5,brick,0.7,5,**Paperweight for Windy Days:** Keep blueprints or maps secure outdoors.
+5,brick,0.7,6,**Pasta Press:** Wrap in foil and press tofu or zucchini to remove excess moisture.
+5,brick,0.7,7,"**Doorstop:** A classic, heavy-duty solution for heavy doors."
+5,brick,0.7,8,**Aquarium Decor:** Create a rustic cave or grotto for fish.
+5,brick,0.7,9,**Incense Holder:** Drill a small hole into the top to hold incense sticks.
+5,brick,0.7,10,"**Garden Edging:** Create a jagged, rustic border for a flower bed."
+5,brick,0.7,11,**Paint Palette:** Use the porous surface to mix acrylics (once primed).
+5,brick,0.7,12,**Boot Scraper:** Place it by the door to scrape mud off shoe soles.
+5,brick,0.7,13,**Tent Anchor:** Use it to hold down a tent corner in a pinch.
+5,brick,0.7,14,**Rustic Candle Holder:** Carve a shallow indentation for a tea light.
+5,brick,0.7,15,**Weight for Brining:** Place it on a plate atop meat in a brine soak.
+5,brick,0.7,16,**Outdoor Step:** Create a temporary stepping stone in a muddy patch.
+5,brick,0.7,17,**Scratching Post:** Place it vertically for a pet to sharpen claws on the rough texture.
+5,brick,0.7,18,**Heat Sink:** Place it under a laptop (with a gap) to help dissipate heat.
+5,brick,0.7,19,**Rustic Book Stand:** Prop a cookbook open while cooking.
+5,brick,0.7,20,**Art Canvas:** Use the flat surface for a miniature acrylic or oil painting.
+6,brick,0.7,1,**Nutcracker:** Use its weight to crack stubborn walnuts.
+6,brick,0.7,2,"**Bookend:** A rustic, industrial way to hold up a library."
+6,brick,0.7,3,**Incense Holder:** Drill a small hole into the clay to hold a stick.
+6,brick,0.7,4,**DIY Weight for Pressing Flowers:** Place it atop a heavy book.
+6,brick,0.7,5,**Rustic Doorstop:** Wrap it in burlap for a farmhouse aesthetic.
+6,brick,0.7,6,**Pasta Press:** Wrap it in foil to flatten dough or press panini.
+6,brick,0.7,7,"**Aquarium Decor:** Create a ""sunken ruin"" for fish to hide in."
+6,brick,0.7,8,**Boot Scraper:** Set it by the door to scrub mud off soles.
+6,brick,0.7,9,**Paperweight for Outdoor Blueprints:** Keeps plans from flying away.
+6,brick,0.7,10,**Improvised Hammer:** For driving stakes into soft soil.
+6,brick,0.7,11,**Yoga Block Substitute:** For stability during low-impact stretches.
+6,brick,0.7,12,**Herb Drying Weight:** Presses moisture out of fresh leaves.
+6,brick,0.7,13,**Outdoor Candle Lantern Base:** Balance a jar candle on it for height.
+6,brick,0.7,14,**Paint Palette:** Use the flat surface to mix thick acrylics.
+6,brick,0.7,15,**Cold Compress Base:** Freeze it and wrap it in a towel for localized cooling.
+6,brick,0.7,16,**Garden Edge Marker:** Bury them halfway to define a flower bed.
+6,brick,0.7,17,**DIY Dumbbell:** Grip it by the sides for a quick upper-body workout.
+6,brick,0.7,18,**Heat Sink:** Heat it in an oven (low temp) and wrap it in fabric for a foot warmer.
+6,brick,0.7,19,**Towel Holder:** Prop one end of a damp towel under a brick to dry.
+6,brick,0.7,20,**Abstract Sculpture Base:** Use it as a pedestal for a small art piece.
+7,brick,0.7,1,**Nutcracker:** Use its weight to crack hard-shelled nuts.
+7,brick,0.7,2,**Bookend:** A rustic way to hold up a series of novels.
+7,brick,0.7,3,**DIY Weights:** Wrap it in a towel for a makeshift dumbbell.
+7,brick,0.7,4,**Incense Holder:** Drill a small hole in the top for a stick.
+7,brick,0.7,5,"**Doorstop:** Simple, heavy, and effective."
+7,brick,0.7,6,**Heat Sink:** Heat it in an oven and wrap it in fabric as a bed warmer.
+7,brick,0.7,7,**Aquarium Decor:** Create a cave or castle for fish.
+7,brick,0.7,8,**Garden Edge:** Define flower beds with a linear border.
+7,brick,0.7,9,**Paint Palette:** Use the flat surface to mix thick acrylics.
+7,brick,0.7,10,**Paperweight:** Keeps blueprints from blowing away outdoors.
+7,brick,0.7,11,**Knife Sharpener:** Use the abrasive surface to hone a blade.
+7,brick,0.7,12,**Boot Scraper:** Place it by the door to knock mud off shoes.
+7,brick,0.7,13,**Rustic Candle Holder:** Carve a shallow divot for a tea light.
+7,brick,0.7,14,**Towel Anchor:** Hold a beach towel down on windy sand.
+7,brick,0.7,15,**Yoga Block Alternative:** Support your palms during stretches.
+7,brick,0.7,16,**Rustic Stepping Stone:** Place them in a path through a garden.
+7,brick,0.7,17,**Meat Press:** Wrap in foil and press bacon or chicken in a pan.
+7,brick,0.7,18,**Improvised Hammer:** For driving stakes into soft ground.
+7,brick,0.7,19,**Bird Bath Base:** Stack them to elevate a shallow basin.
+7,brick,0.7,20,**Hidden Safe:** Hollow one out (if possible) to hide a key.
+8,brick,0.7,1,**Nutcracker:** Use its weight to crack open stubborn walnuts.
+8,brick,0.7,2,**DIY Bookend:** Wrap it in fabric or leather for a rustic library look.
+8,brick,0.7,3,**Incense Holder:** Drill a small hole into the center to hold sticks.
+8,brick,0.7,4,**Boot Scraper:** Place it by the door to scrape mud off soles.
+8,brick,0.7,5,**Aquarium Decor:** Create a cave or fortress for fish.
+8,brick,0.7,6,**Improvised Dumbbell:** Use two bricks for a quick upper-body workout.
+8,brick,0.7,7,"**Heat Sink:** Heat it in the oven, wrap it in a towel, and use it as a bed warmer."
+8,brick,0.7,8,**Paperweight for Outdoor Blueprints:** Keep wind from blowing away site plans.
+8,brick,0.7,9,**Rustic Planter:** Hollow out the center or stack them to hold succulents.
+8,brick,0.7,10,"**Doorstop:** A classic, heavy-duty solution for drafty rooms."
+8,brick,0.7,11,**Paint Palette:** Use the porous surface to mix acrylics.
+8,brick,0.7,12,**Knife Sharpener:** Use a rough brick to hone a dull blade in a pinch.
+8,brick,0.7,13,**Garden Path Marker:** Paint symbols or numbers on them to mark rows.
+8,brick,0.7,14,**Press for Tofu:** Use it to squeeze excess water out of tofu.
+8,brick,0.7,15,**Candle Pillar:** Place a tea light on top for a brutalist centerpiece.
+8,brick,0.7,16,**Outdoor Grill Base:** Stack them to create a temporary fire pit.
+8,brick,0.7,17,**Paper Press:** Flatten dried flowers or pressed leaves.
+8,brick,0.7,18,**Bird Bath Base:** Elevate a shallow basin off the ground.
+8,brick,0.7,19,**Towel Holder:** Drill a hole through it and slide it onto a rod.
+8,brick,0.7,20,**Abstract Sculpture:** Glue them in gravity-defying patterns for modern art.
+9,brick,0.7,1,**Nutcracker:** Use its weight to crack hard shells.
+9,brick,0.7,2,**Bookend:** A rustic way to hold up a library.
+9,brick,0.7,3,**Incense Holder:** Drill a small hole to hold a stick.
+9,brick,0.7,4,"**DIY Heater:** Heat it in a fire, wrap it in wool, and put it at the foot of a bed."
+9,brick,0.7,5,**Paperweight:** Perfect for windy outdoor drafting.
+9,brick,0.7,6,**Aquarium Decor:** Create a textured cave for fish.
+9,brick,0.7,7,**Doorstop:** A heavy-duty solution for heavy doors.
+9,brick,0.7,8,**Paint Palette:** Use the flat surface to mix acrylics.
+9,brick,0.7,9,**Boot Scraper:** Place it by the door to knock mud off soles.
+9,brick,0.7,10,**Yoga Block:** A sturdy (though hard) support for stretches.
+9,brick,0.7,11,**Weight for Brining:** Press it onto vegetables in a pickling jar.
+9,brick,0.7,12,**Garden Edge:** Line a path for a geometric border.
+9,brick,0.7,13,**Improvisational Dumbbell:** For a quick arm workout.
+9,brick,0.7,14,**Knife Sharpener:** Use the rough side to hone a blade.
+9,brick,0.7,15,**Towel Rack Anchor:** Use it as a base for a freestanding pole.
+9,brick,0.7,16,**Outdoor Candle Holder:** Carve a shallow divot for a tea light.
+9,brick,0.7,17,**Pottery Mold:** Use the edges to create straight lines in clay.
+9,brick,0.7,18,**Step Stool:** A single-brick boost for reaching a low shelf.
+9,brick,0.7,19,**Heat Sink:** Place it under a laptop to absorb excess heat.
+9,brick,0.7,20,**Abstract Sculpture:** Paint it and mount it as minimalist art.
+10,brick,0.7,1,**Nutcracker:** Use its weight to crack hard shells.
+10,brick,0.7,2,**DIY Bookends:** Wrap them in fabric or leather for industrial decor.
+10,brick,0.7,3,**Incense Holder:** Drill a small hole into the center to hold a stick.
+10,brick,0.7,4,**Pasta Press:** Wrap in foil and place atop ingredients to press them.
+10,brick,0.7,5,"**Doorstop:** A classic, heavy-duty solution for windy days."
+10,brick,0.7,6,"**Garden Edge:** Create a rustic, staggered border for flower beds."
+10,brick,0.7,7,**Paperweight:** Keep blueprints or large maps from curling.
+10,brick,0.7,8,**Boot Scraper:** Place by the door to scrape mud off soles.
+10,brick,0.7,9,"**Aquarium Decor:** Create a ""cave"" for bottom-dwelling fish."
+10,brick,0.7,10,**Improvised Anvil:** For light metal bending or hammering.
+10,brick,0.7,11,"**Heat Sink:** Heat it in the oven, wrap in a towel, and use as a bed warmer."
+10,brick,0.7,12,**Paint Palette:** Use the porous surface to mix thick acrylics.
+10,brick,0.7,13,**Yoga Block:** A sturdy (though heavy) alternative for support.
+10,brick,0.7,14,**Knife Sharpener:** Use the rough side to hone a blade in a pinch.
+10,brick,0.7,15,**Towel Holder:** Notch a brick and slide a rod through for a bathroom stand.
+10,brick,0.7,16,**Step Stool:** Stack and secure them to reach a high shelf.
+10,brick,0.7,17,**Weight for Brining:** Place on top of a meat brine to keep poultry submerged.
+10,brick,0.7,18,**Outdoor Fire Pit Base:** Create a heat-resistant foundation.
+10,brick,0.7,19,**Rustic Candle Holder:** Use a brick with holes (frogs) to hold pillars.
+10,brick,0.7,20,**Exercise Weight:** Use for single-arm rows or weighted lunges.

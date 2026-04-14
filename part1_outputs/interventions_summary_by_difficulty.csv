@@ -1,0 +1,9 @@
+intervention,difficulty,accuracy,avg_confidence,n,calibration_error_abs
+list_why_wrong,easy,1.0,100.0,10,0.0
+list_why_wrong,hard,1.0,99.73333333333333,15,0.002666666666666706
+list_why_wrong,medium,1.0,100.0,15,0.0
+list_why_wrong,unanswerable,0.8,100.0,10,0.19999999999999996
+reason_before_confidence,easy,1.0,100.0,10,0.0
+reason_before_confidence,hard,0.9333333333333333,99.66666666666667,15,0.06333333333333335
+reason_before_confidence,medium,1.0,100.0,15,0.0
+reason_before_confidence,unanswerable,0.9,100.0,10,0.09999999999999998

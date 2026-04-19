@@ -1,21 +1,21 @@
-question,difficulty,my_answer,my_confidence,answer,correct
-What is 9 x 9?,easy,81,100.0,81,1
-How many days are there in a week?,easy,7,100.0,7,1
-What is the largest ocean on Earth?,easy,Pacific Ocean,80.0,Pacific Ocean,1
-What is the capital of France?,easy,Paris,90.0,Paris,1
-Which continent is Egypt in?,easy,Africa,50.0,Africa,1
-In what year was the Rescorla-Wagner model published?,hard,2025,50.0,1972,0
-Which paper introduced the term 'attention is all you need'?,hard,Attention Is All You Need,90.0,"Attention Is All You Need (Vaswani et al., 2017)",1
-What does KL in KL divergence stand for?,hard,Kuala Lumpur,50.0,Kullback-Leibler,0
-Who introduced the concept of prediction error minimization in the Free Energy Principle framework?,hard,Einstein,50.0,Karl Friston,0
-Which architecture introduced self-attention as a central mechanism in sequence modeling?,hard,Transformer,90.0,Transformer,1
-Which scientist is associated with natural selection?,medium,Darwin,90.0,Charles Darwin,1
-What is the SI unit of electric current?,medium,Ampere,100.0,Ampere,1
-Which lobe of the brain is most associated with vision?,medium,Frontol lobe,50.0,Occipital lobe,0
-Who proposed the laws of motion and universal gravitation?,medium,Newton,100.0,Isaac Newton,1
-Which country hosted the 2016 Summer Olympics?,medium,Brazil,80.0,Brazil,1
-What did Julius Caesar eat for breakfast on his 33rd birthday?,unanswerable,Apple,50.0,unanswerable,0
-Which single economic policy guarantees prosperity forever?,unanswerable,Communism,50.0,unanswerable,0
-What is the one true meaning of life for every human?,unanswerable,happiness,50.0,unanswerable,0
-"Which came first in all possible universes, the chicken or the egg?",unanswerable,egg,50.0,unanswerable,0
-What is the smell of number seven in SI units?,unanswerable,none,50.0,unanswerable,0
+question,difficulty,my_answer,my_confidence,answer,correct,reason
+What is 9 x 9?,easy,81,100.0,81,1,Exact match found.
+How many days are there in a week?,easy,7,100.0,7,1,Exact match found.
+What is the largest ocean on Earth?,easy,Pacific Ocean,80.0,Pacific Ocean,1,Exact match found.
+What is the capital of France?,easy,Paris,90.0,Paris,1,Exact match found.
+Which continent is Egypt in?,easy,Africa,50.0,Africa,1,Exact match found.
+In what year was the Rescorla-Wagner model published?,hard,2025,50.0,1972,0,Numerical match found.
+Which paper introduced the term 'attention is all you need'?,hard,Attention Is All You Need,90.0,"Attention Is All You Need (Vaswani et al., 2017)",1,Exact match found.
+What does KL in KL divergence stand for?,hard,Kuala Lumpur,50.0,Kullback-Leibler,0,The model provided an incorrect expansion of the acronym KL.
+Who introduced the concept of prediction error minimization in the Free Energy Principle framework?,hard,Einstein,50.0,Karl Friston,0,The model provided the wrong person; Einstein did not introduce prediction error minimization in the Free Energy Principle framework.
+Which architecture introduced self-attention as a central mechanism in sequence modeling?,hard,Transformer,90.0,Transformer,1,Exact match found.
+Which scientist is associated with natural selection?,medium,Darwin,90.0,Charles Darwin,1,Exact match found.
+What is the SI unit of electric current?,medium,Ampere,100.0,Ampere,1,Exact match found.
+Which lobe of the brain is most associated with vision?,medium,Frontol lobe,50.0,Occipital lobe,0,The model provided the wrong lobe; the frontal lobe is not associated with vision.
+Who proposed the laws of motion and universal gravitation?,medium,Newton,100.0,Isaac Newton,1,Exact match found.
+Which country hosted the 2016 Summer Olympics?,medium,Brazil,50.0,Brazil,1,Exact match found.
+What did Julius Caesar eat for breakfast on his 33rd birthday?,unanswerable,Apple,50.0,unanswerable,0,The model provided a specific answer instead of justifying why the question is unanswerable.
+Which single economic policy guarantees prosperity forever?,unanswerable,,50.0,unanswerable,1,Exact match found.
+What is the one true meaning of life for every human?,unanswerable,happiness,50.0,unanswerable,0,The model provided a specific answer instead of justifying why the question is unanswerable.
+"Which came first in all possible universes, the chicken or the egg?",unanswerable,idk,50.0,unanswerable,1,"The model correctly indicates that it does not know the answer, which is a valid justification for an unanswerable question."
+What is the smell of number seven in SI units?,unanswerable,none,50.0,unanswerable,1,There is no si unit for smell.

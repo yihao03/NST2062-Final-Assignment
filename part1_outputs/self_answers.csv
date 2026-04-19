@@ -11,11 +11,11 @@ Who introduced the concept of prediction error minimization in the Free Energy P
 Which architecture introduced self-attention as a central mechanism in sequence modeling?,hard,Transformer,90
 Which scientist is associated with natural selection?,medium,Darwin,90
 What is the SI unit of electric current?,medium,Ampere,100
-Which lobe of the brain is most associated with vision?,medium,Frontol lobe,30
+Which lobe of the brain is most associated with vision?,medium,Frontol lobe,10
 Who proposed the laws of motion and universal gravitation?,medium,Newton,100
-Which country hosted the 2016 Summer Olympics?,medium,Brazil,80
+Which country hosted the 2016 Summer Olympics?,medium,Brazil,50
 What did Julius Caesar eat for breakfast on his 33rd birthday?,unanswerable,Apple,0
-Which single economic policy guarantees prosperity forever?,unanswerable,Communism,0
+Which single economic policy guarantees prosperity forever?,unanswerable,None,0
 What is the one true meaning of life for every human?,unanswerable,happiness,0
-"Which came first in all possible universes, the chicken or the egg?",unanswerable,egg,30
+"Which came first in all possible universes, the chicken or the egg?",unanswerable,idk,30
 What is the smell of number seven in SI units?,unanswerable,none,0
